@@ -1,0 +1,441 @@
+COUNTRY,DEPLOYMENT DATE,DEPLOYMENT LAT,DEPLOYMENT LON,LAST LOCATION DATE,MODEL,NAME,NETWORKS,OBSERVING NETWORKS,PROGRAM,REF,SERIAL NUMBER,STATUS,TYPE
+Australia,2013-04-26T00:00:00,-46.7771,141.9931,,Subsurface Mooring Custom,SOFS-4,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5800450_003,,CLOSED,Subsurface Mooring
+Australia,2013-05-04T00:00:00,-46.7933,141.8232,,Subsurface Mooring Custom,SAZ47-16,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5801003_014,,CLOSED,Subsurface Mooring
+Australia,2013-05-07T00:00:00,-46.9378,141.2846,,Subsurface Mooring Custom,PULSE-10,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,TMP1453570677,,CLOSED,Subsurface Mooring
+Australia,2012-07-20T00:00:00,-46.6644,142.0627,,Subsurface Mooring Custom,SOFS-3,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5800450_002,,CLOSED,Subsurface Mooring
+Australia,2012-07-16T00:00:00,-46.855,142.3721,,Subsurface Mooring Custom,PULSE-9,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,TMP-502617938,,CLOSED,Subsurface Mooring
+Australia,2012-07-16T00:00:00,-46.8333,141.65,,Subsurface Mooring Custom,SAZ47-15,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5801003_013,SS2012_V03,CLOSED,Subsurface Mooring
+Australia,2011-08-03T00:00:00,-46.93,142.25,,Subsurface Mooring Custom,PULSE-8,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,TMP-142259141,,CLOSED,Subsurface Mooring
+Australia,2018-03-08T03:26:00,-46.792,141.7943,,Benthic Mooring Custom,SAZ47-20,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5801003_018,,CLOSED,Benthic Mooring
+Australia,2017-03-21T03:11:00,-46.1094,142.3085,,Benthic Mooring Custom,SAZ47-19,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5801003_017,,CLOSED,Benthic Mooring
+Australia,2017-03-20T10:09:00,-46.0265,142.129,,Subsurface Mooring Custom,SOFS-6,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5800450_006,,CLOSED,Subsurface Mooring
+Australia,2015-03-27T07:10:00,-46.8249,141.6559,,Benthic Mooring Custom,SAZ47-17,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5801003_015,,CLOSED,Benthic Mooring
+Australia,2016-03-18T07:30:00,-46.7836,141.8422,,Benthic Mooring Custom,SAZ47-18,"IMOS, OceanSITES",OceanSITES,OS-CSIRO,5801003_016,,CLOSED,Benthic Mooring
+United States,2014-07-11T00:00:00,58.8722,-30.5325,,Mooring Custom,OM47,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-UN_MIAMI,TMP-1490882106,,INACTIVE,Mooring
+United States,2014-07-12T00:00:00,58.7462,-30.1168,,Mooring Custom,OM48,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-UN_MIAMI,TMP1630562034,,INACTIVE,Mooring
+United States,2014-07-12T00:00:00,58.5352,-29.4637,,Mooring Custom,OM49,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-UN_MIAMI,TMP132518900,,INACTIVE,Mooring
+United States,2014-07-14T00:00:00,58.0097,-26.9678,,Mooring Custom,OM52,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-UN_MIAMI,TMP-1978006419,,INACTIVE,Mooring
+United States,2014-07-15T00:00:00,58.0128,-24.4287,,Mooring Custom,OM53,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-UN_MIAMI,TMP-1681632572,,INACTIVE,Mooring
+United States,2014-07-16T00:00:00,57.9927,-21.1435,,Mooring Custom,OM54,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-UN_MIAMI,TMP-1761208077,,INACTIVE,Mooring
+Germany,1997-07-15T12:51:00,52.9582,-51.3,,Subsurface Mooring Custom,LABSEA_K8-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048,,CLOSED,Subsurface Mooring
+Germany,2007-06-01T13:19:00,52.9667,-51.3,,Subsurface Mooring Custom,LABSEA_K8-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_002,,CLOSED,Subsurface Mooring
+Germany,2009-05-19T20:14:00,52.9567,-51.3,,Subsurface Mooring Custom,LABSEA_K8-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_003,,CLOSED,Subsurface Mooring
+Germany,2001-06-06T00:00:00,52.9583,-51.301,,Subsurface Mooring Custom,LABSEA_K8-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_001,,CLOSED,Subsurface Mooring
+Germany,2010-07-26T12:24:00,52.9552,-51.3098,,Subsurface Mooring Custom,LABSEA_K8-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_004,,CLOSED,Subsurface Mooring
+Germany,2012-05-19T00:00:00,52.9552,-51.309,,Subsurface Mooring Custom,LABSEA_K8-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_005,,CLOSED,Subsurface Mooring
+Germany,2014-08-09T22:55:00,52.9461,-51.326,,Subsurface Mooring Custom,LABSEA_K8-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_006,,CLOSED,Subsurface Mooring
+Germany,2016-05-18T19:05:00,52.9557,-51.3102,,Subsurface Mooring Custom,LABSEA_K8-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_007,,CLOSED,Subsurface Mooring
+Germany,2018-05-30T17:59:00,52.9557,-51.3102,,Subsurface Mooring Custom,LABSEA_K8-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801048_008,,INACTIVE,Subsurface Mooring
+Germany,1997-07-14T14:20:00,53.1417,-50.866,,Subsurface Mooring Custom,LABSEA_K9-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049,,CLOSED,Subsurface Mooring
+Germany,1998-07-17T00:00:00,53.1417,-50.866,,Subsurface Mooring Custom,LABSEA_K9-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_001,,CLOSED,Subsurface Mooring
+Germany,2003-09-11T00:00:00,53.1416,-50.868,,Subsurface Mooring Custom,LABSEA_K9-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_004,,CLOSED,Subsurface Mooring
+Germany,2001-06-08T00:00:00,53.1417,-50.868,,Subsurface Mooring Custom,LABSEA_K9-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_003,,CLOSED,Subsurface Mooring
+Germany,2005-07-25T00:00:00,53.1416,-50.868,,Subsurface Mooring Custom,LABSEA_K9-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_005,,CLOSED,Subsurface Mooring
+Germany,1999-07-14T00:00:00,53.0858,-50.998,,Subsurface Mooring Custom,LABSEA_K9-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_002,,CLOSED,Subsurface Mooring
+Germany,2007-06-02T12:29:00,53.1333,-50.866,,Subsurface Mooring Custom,LABSEA_K9-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_006,,CLOSED,Subsurface Mooring
+Germany,2008-08-23T15:01:00,53.1333,-50.866,,Subsurface Mooring Custom,LABSEA_K9-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_007,,CLOSED,Subsurface Mooring
+Germany,2009-05-20T10:51:00,53.1267,-50.8675,,Subsurface Mooring Custom,LABSEA_K9-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_008,,CLOSED,Subsurface Mooring
+Germany,2010-07-25T16:26:00,53.1377,-50.8712,,Subsurface Mooring Custom,LABSEA_K9-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_009,,CLOSED,Subsurface Mooring
+Germany,2012-05-19T13:14:00,53.1377,-50.871,,Subsurface Mooring Custom,LABSEA_K9-11,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_010,,CLOSED,Subsurface Mooring
+Germany,2014-08-11T14:38:00,53.14,-50.881,,Subsurface Mooring Custom,LABSEA_K9-12,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_011,,CLOSED,Subsurface Mooring
+Germany,2016-05-17T18:58:00,53.137,-50.8708,,Subsurface Mooring Custom,LABSEA_K9-13,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_012,,CLOSED,Subsurface Mooring
+Germany,2018-05-31T14:20:00,53.13,-50.87,,Subsurface Mooring Custom,LABSEA_K9-14,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801049_013,,INACTIVE,Subsurface Mooring
+Germany,1997-07-14T23:30:00,53.38,-50.26,,Subsurface Mooring Custom,LABSEA_K10-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050,,CLOSED,Subsurface Mooring
+Germany,2001-06-10T00:00:00,53.3917,-50.256,,Subsurface Mooring Custom,LABSEA_K10-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_002,,CLOSED,Subsurface Mooring
+Germany,2007-06-02T18:22:00,53.3833,-50.266,,Subsurface Mooring Custom,LABSEA_K10-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_003,,CLOSED,Subsurface Mooring
+Germany,2009-05-20T20:30:00,53.3757,-50.2565,,Subsurface Mooring Custom,LABSEA_K10-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_004,,CLOSED,Subsurface Mooring
+Germany,2010-07-24T20:05:00,53.38,-50.2533,,Subsurface Mooring Custom,LABSEA_K10-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_005,,CLOSED,Subsurface Mooring
+Germany,1999-07-14T00:00:00,53.315,-50.44,,Subsurface Mooring Custom,LABSEA_K10-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_001,,CLOSED,Subsurface Mooring
+Germany,2012-05-18T23:01:00,53.3793,-50.254,,Subsurface Mooring Custom,LABSEA_K10-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_006,,CLOSED,Subsurface Mooring
+Germany,2014-08-12T18:04:00,53.3874,-50.25,,Subsurface Mooring Custom,LABSEA_K10-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_007,,CLOSED,Subsurface Mooring
+Germany,2016-05-20T13:35:00,53.3875,-50.2548,,Subsurface Mooring Custom,LABSEA_K10-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_008,,CLOSED,Subsurface Mooring
+Germany,2018-05-28T20:36:00,53.3873,-50.2547,,Subsurface Mooring Custom,LABSEA_K10-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801050_009,,INACTIVE,Subsurface Mooring
+Germany,2016-05-17T13:04:00,53.0467,-51.08,,Subsurface Mooring Custom,LABSEA_DSOW1-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801041_004,,CLOSED,Subsurface Mooring
+Germany,2018-05-30T20:24:00,53.0475,-51.0795,,Subsurface Mooring Custom,LABSEA_DSOW1-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801041_005,,INACTIVE,Subsurface Mooring
+Germany,2009-05-20T12:54:00,53.0463,-51.0805,,Subsurface Mooring Custom,LABSEA_DSOW1-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801041,,CLOSED,Subsurface Mooring
+Germany,2010-07-26T14:25:00,53.0467,-51.08,,Subsurface Mooring Custom,LABSEA_DSOW1-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801041_001,,CLOSED,Subsurface Mooring
+Germany,2012-05-18T11:45:00,53.046,-51.081,,Subsurface Mooring Custom,LABSEA_DSOW1-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801041_002,,CLOSED,Subsurface Mooring
+Germany,2014-08-08T18:20:00,53.0544,-51.088,,Subsurface Mooring Custom,LABSEA_DSOW1-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801041_003,,CLOSED,Subsurface Mooring
+Germany,2010-07-25T09:24:00,53.2567,-50.5545,,Subsurface Mooring Custom,LABSEA_DSOW2-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801042_001,,CLOSED,Subsurface Mooring
+Germany,2012-05-18T15:10:00,53.2567,-50.554,,Subsurface Mooring Custom,LABSEA_DSOW2-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801042_002,,CLOSED,Subsurface Mooring
+Germany,2009-05-20T15:34:00,53.2567,-50.5633,,Subsurface Mooring Custom,LABSEA_DSOW2-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801042,,CLOSED,Subsurface Mooring
+Germany,2014-08-11T01:00:00,53.2583,-50.55,,Subsurface Mooring Custom,LABSEA_DSOW2-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801042_003,,CLOSED,Subsurface Mooring
+Germany,2016-05-20T19:50:00,53.2567,-50.5545,,Subsurface Mooring Custom,LABSEA_DSOW2-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801042_004,,CLOSED,Subsurface Mooring
+Germany,2018-05-31T16:52:00,53.2567,-50.5542,,Subsurface Mooring Custom,LABSEA_DSOW2-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801042_005,,INACTIVE,Subsurface Mooring
+Germany,2014-08-24T00:00:00,59.0077,-47.5645,,Subsurface Mooring Custom,LABSEA_DSOW3-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801043,,CLOSED,Subsurface Mooring
+Germany,2016-05-29T16:57:00,59.0072,-47.5645,,Subsurface Mooring Custom,LABSEA_DSOW3-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801043_001,,CLOSED,Subsurface Mooring
+Germany,2018-06-09T17:45:00,59.0072,-47.5645,,Subsurface Mooring Custom,LABSEA_DSOW3-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801043_002,,INACTIVE,Subsurface Mooring
+Germany,2014-08-24T13:42:00,59.2155,-47.0818,,Subsurface Mooring Custom,LABSEA_DSOW4-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801044,,CLOSED,Subsurface Mooring
+Germany,2018-06-09T13:44:00,59.2155,-47.0832,,Subsurface Mooring Custom,LABSEA_DSOW4-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801044_002,,INACTIVE,Subsurface Mooring
+Germany,2016-05-29T12:43:00,59.2155,-47.0818,,Subsurface Mooring Custom,LABSEA_DSOW4-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801044_001,,CLOSED,Subsurface Mooring
+Germany,1999-07-15T00:00:00,53.5883,-49.7,,Subsurface Mooring Custom,LABSEA_DSOW5-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801045_001,,CLOSED,Subsurface Mooring
+Germany,2014-08-12T10:53:00,53.725,-49.791,,Subsurface Mooring Custom,LABSEA_DSOW5-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801045_002,,CLOSED,Subsurface Mooring
+Germany,1997-07-13T13:04:00,53.6917,-49.433,,Subsurface Mooring Custom,LABSEA_DSOW5-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801045,,CLOSED,Subsurface Mooring
+Germany,2018-05-28T15:28:00,53.5927,-49.7828,,Subsurface Mooring Custom,LABSEA_DSOW5-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801045_004,,INACTIVE,Subsurface Mooring
+Germany,2016-05-19T18:12:00,53.592,-49.7818,,Subsurface Mooring Custom,LABSEA_DSOW5-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801045_003,,CLOSED,Subsurface Mooring
+Germany,2018-06-10T17:02:00,58.7333,-48.1668,,Subsurface Mooring Custom,LABSEA_DSOW6-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801046,,INACTIVE,Subsurface Mooring
+Germany,2002-08-23T01:00:00,59.7117,-39.6033,,Subsurface Mooring Custom,CIS01-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478,,CLOSED,Subsurface Mooring
+Germany,2002-08-21T01:15:00,59.685,-39.65,,Mooring Custom,CIS01-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_001,,CLOSED,Mooring
+Germany,2003-08-29T12:40:00,59.7095,-39.604,,Subsurface Mooring Custom,CIS02-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_002,,CLOSED,Subsurface Mooring
+Germany,2003-08-27T14:04:00,59.6842,-39.776,,Mooring Custom,CIS02-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_003,,CLOSED,Mooring
+Germany,2004-05-16T21:08:00,59.6803,-39.702,,Mooring Custom,CIS03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_004,,CLOSED,Mooring
+Germany,2004-09-19T10:03:00,59.6683,-39.693,,Mooring Custom,CIS04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_005,,CLOSED,Mooring
+Germany,2005-09-19T15:30:00,59.6668,-39.699,,Mooring Custom,CIS05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_006,,CLOSED,Mooring
+Germany,2006-08-29T20:21:00,59.6676,-39.722,,Mooring Custom,CIS06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_007,,CLOSED,Mooring
+Germany,2007-07-08T21:32:00,59.6668,-39.717,,Mooring Custom,CIS07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_008,,CLOSED,Mooring
+Germany,2008-09-08T21:45:00,59.6702,-39.725,,Mooring Custom,CIS08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_009,,CLOSED,Mooring
+Germany,2009-05-27T18:53:00,59.6847,-39.727,,Mooring Custom,CIS09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_010,,CLOSED,Mooring
+Germany,2010-07-20T13:11:00,59.6843,-39.722,,Mooring Custom,CIS10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_011,,CLOSED,Mooring
+Germany,2011-08-13T17:03:00,59.6863,-39.73,,Mooring Custom,CIS11,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_012,,CLOSED,Mooring
+Germany,2012-05-30T18:15:00,59.6889,-39.66,,Mooring Custom,CIS12,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_013,,CLOSED,Mooring
+Germany,2014-08-18T21:56:00,59.5305,-39.7838,,Mooring Custom,CIS13,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_014,,CLOSED,Mooring
+Germany,2016-05-30T20:57:00,59.5304,-39.783,,Mooring Custom,CIS14,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400478_015,,CLOSED,Mooring
+Germany,1996-08-10T00:00:00,56.56,-52.491,,Subsurface Mooring Custom,LABSEA_K1-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479,,CLOSED,Subsurface Mooring
+Germany,1997-07-22T23:39:00,56.56,-52.658,,Subsurface Mooring Custom,LABSEA_K1-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_001,,CLOSED,Subsurface Mooring
+Germany,1998-08-06T00:00:00,56.56,-52.658,,Subsurface Mooring Custom,LABSEA_K1-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_002,,CLOSED,Subsurface Mooring
+Germany,1999-07-24T00:00:00,56.56,-52.658,,Subsurface Mooring Custom,LABSEA_K1-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_003,,CLOSED,Subsurface Mooring
+Germany,2000-06-03T00:00:00,56.56,-52.658,,Mooring Custom,LABSEA_K1-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_004,,CLOSED,Mooring
+Germany,2001-06-14T00:00:00,56.5583,-52.658,,Mooring Custom,LABSEA_K1-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_005,,CLOSED,Mooring
+Germany,2002-05-30T00:00:00,56.562,-52.667,,Mooring Custom,LABSEA_K1-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_006,,CLOSED,Mooring
+Germany,2003-09-07T16:43:00,56.5617,-52.6667,,Mooring Custom,LABSEA_K1-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_007,,CLOSED,Mooring
+Germany,2004-09-15T14:42:00,56.5246,-52.65,,Mooring Custom,LABSEA_K1-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_008,,CLOSED,Mooring
+Germany,2005-07-22T00:00:00,56.525,-52.65,,Subsurface Mooring Custom,LABSEA_K1-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_009,,CLOSED,Subsurface Mooring
+Germany,2007-06-07T15:00:00,56.6333,-52.616,,Subsurface Mooring Custom,LABSEA_K1-11,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_010,,CLOSED,Subsurface Mooring
+Germany,2008-08-30T19:18:00,56.6333,-52.616,,Subsurface Mooring Custom,LABSEA_K1-12,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_011,,CLOSED,Subsurface Mooring
+Germany,2009-05-25T17:23:00,56.6,-52.7,,Subsurface Mooring Custom,LABSEA_K1-13,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_012,,CLOSED,Subsurface Mooring
+Germany,2010-07-28T16:16:00,56.5522,-52.6488,,Subsurface Mooring Custom,LABSEA_K1-14,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_013,,CLOSED,Subsurface Mooring
+Germany,2012-05-21T00:00:00,56.5522,-52.648,,Subsurface Mooring Custom,LABSEA_K1-15,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_014,,CLOSED,Subsurface Mooring
+Germany,2014-08-13T00:00:00,56.5908,-52.64,,Mooring Custom,LABSEA_K1-16,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_015,,CLOSED,Mooring
+Germany,2016-05-22T22:04:00,56.5617,-52.657,,Mooring Custom,LABSEA_K1-17,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_016,,CLOSED,Mooring
+Germany,2018-06-03T21:36:00,56.5617,-52.657,,Mooring Custom,LABSEA_K1-18,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4400479_017,,INACTIVE,Mooring
+Germany,2012-10-25T00:00:00,17.6067,-24.236,,Mooring Custom,CVOO05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_004,,CLOSED,Mooring
+Germany,2016-09-01T15:15:00,17.6066,-24.2497,,Mooring Custom,CVOO08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_007,,CLOSED,Mooring
+Germany,2015-09-10T14:07:00,17.6067,-24.2497,,Mooring Custom,CVOO07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_006,,CLOSED,Mooring
+Germany,2015-09-09T14:41:00,17.6045,-24.3137,,Subsurface Mooring Custom,CVOO_winch_01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801015,,CLOSED,Subsurface Mooring
+Germany,2014-04-20T20:42:00,17.6983,-24.504,,Mooring Custom,CVOO06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_005,,CLOSED,Mooring
+Germany,2008-03-14T10:58:00,17.6067,-24.25,,Subsurface Mooring Custom,CVOO02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_001,,CLOSED,Subsurface Mooring
+Germany,2009-10-27T15:31:00,17.6067,-24.2497,,Subsurface Mooring Custom,CVOO03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_002,,CLOSED,Subsurface Mooring
+Germany,2011-06-18T21:13:00,17.6067,-24.249,,Subsurface Mooring Custom,CVOO04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_003,,CLOSED,Subsurface Mooring
+Germany,2013-07-07T00:00:00,-10.381,-35.678,,Subsurface Mooring Custom,11S_K2-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_004,,CLOSED,Subsurface Mooring
+Germany,2014-05-15T12:18:00,-10.368,-35.668,,Subsurface Mooring Custom,11S_K2-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_005,,CLOSED,Subsurface Mooring
+Germany,2003-05-10T17:04:00,-10.38,-35.68,,Subsurface Mooring Custom,11S_K2-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_003,,CLOSED,Subsurface Mooring
+Germany,2015-10-02T13:12:00,-10.38,-35.68,,Subsurface Mooring Custom,11S_K2-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_006,,CLOSED,Subsurface Mooring
+Germany,2016-09-26T13:04:00,-10.3799,-35.6797,,Subsurface Mooring Custom,11S_K2-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_007,,CLOSED,Subsurface Mooring
+Germany,2018-03-07T15:25:00,-10.378,-35.6793,,Subsurface Mooring Custom,11S_K2-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_008,,CLOSED,Subsurface Mooring
+Germany,2019-10-31T13:31:00,-10.3798,-35.6785,,Subsurface Mooring Custom,11S_K2-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_009,,OPERATIONAL,Subsurface Mooring
+Germany,2000-03-19T00:00:00,-10.61,-35.39,,Subsurface Mooring Custom,11S_K3-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003,,CLOSED,Subsurface Mooring
+Germany,2013-07-07T00:00:00,-10.61,-35.391,,Subsurface Mooring Custom,11S_K3-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_003,,CLOSED,Subsurface Mooring
+Germany,2002-02-05T00:00:00,-10.611,-35.39,,Subsurface Mooring Custom,11S_K3-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_001,,CLOSED,Subsurface Mooring
+Germany,2015-10-03T14:36:00,-10.6083,-35.3933,,Subsurface Mooring Custom,11S_K3-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_005,,CLOSED,Subsurface Mooring
+Germany,2003-05-11T13:56:00,-10.608,-35.393,,Subsurface Mooring Custom,11S_K3-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_002,,CLOSED,Subsurface Mooring
+Germany,2014-05-16T18:23:00,-10.601,-35.385,,Subsurface Mooring Custom,11S_K3-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_004,,CLOSED,Subsurface Mooring
+Germany,2016-09-25T12:35:00,-10.6083,-35.3927,,Subsurface Mooring Custom,11S_K3-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_006,,CLOSED,Subsurface Mooring
+Germany,2018-03-05T20:52:00,-10.606,-35.3904,,Subsurface Mooring Custom,11S_K3-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_007,,CLOSED,Subsurface Mooring
+Germany,2019-11-01T12:58:00,-10.6082,-35.389,,Subsurface Mooring Custom,11S_K3-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801003_008,,OPERATIONAL,Subsurface Mooring
+Germany,2013-07-08T00:00:00,-10.941,-34.99,,Subsurface Mooring Custom,11S_K4-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_004,,CLOSED,Subsurface Mooring
+Germany,2000-11-23T00:00:00,-10.941,-34.992,,Subsurface Mooring Custom,11S_K4-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_001,,CLOSED,Subsurface Mooring
+Germany,2000-03-20T00:00:00,-10.941,-34.991,,Subsurface Mooring Custom,11S_K4-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004,,CLOSED,Subsurface Mooring
+Germany,2003-05-12T21:14:00,-10.94,-34.993,,Subsurface Mooring Custom,11S_K4-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_003,,CLOSED,Subsurface Mooring
+Germany,2002-02-06T00:00:00,-10.941,-34.992,,Subsurface Mooring Custom,11S_K4-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_002,,CLOSED,Subsurface Mooring
+Germany,2014-05-17T19:30:00,-10.934,-34.985,,Subsurface Mooring Custom,11S_K4-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_005,,CLOSED,Subsurface Mooring
+Germany,2015-10-04T19:12:00,-10.94,-34.9933,,Subsurface Mooring Custom,11S_K4-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_006,,CLOSED,Subsurface Mooring
+Germany,2016-09-24T20:48:00,-10.9402,-34.9933,,Subsurface Mooring Custom,11S_K4-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_007,,CLOSED,Subsurface Mooring
+Germany,2018-03-05T13:04:00,-10.94,-34.9933,,Subsurface Mooring Custom,11S_K4-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_008,,CLOSED,Subsurface Mooring
+Germany,2019-11-02T13:25:00,-10.9412,-34.9902,,Subsurface Mooring Custom,11S_K4-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801004_009,,OPERATIONAL,Subsurface Mooring
+Germany,2000-03-21T00:00:00,-11.47,-34.215,,Subsurface Mooring Custom,11S_K5-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801005,,CLOSED,Subsurface Mooring
+Germany,2006-07-08T15:55:00,17.5898,-24.252,,Subsurface Mooring Custom,CVOO01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475,,CLOSED,Subsurface Mooring
+Germany,2005-05-29T00:00:00,-2.0E-4,-23.125,,Subsurface Mooring Custom,23W_EQ_K1-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_002,,CLOSED,Subsurface Mooring
+Germany,2006-06-19T21:53:00,0.1133,-23,,Subsurface Mooring Custom,23W_EQ_K1-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_003,,CLOSED,Subsurface Mooring
+Germany,2001-12-13T00:00:00,0.0415,-23.025,,Subsurface Mooring Custom,23W_EQ_K1-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011,,CLOSED,Subsurface Mooring
+Germany,2004-02-01T00:00:00,-0.0193,-23.094,,Subsurface Mooring Custom,23W_EQ_K1-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_001,,CLOSED,Subsurface Mooring
+Germany,2008-03-01T19:43:00,0,-23.1133,,Subsurface Mooring Custom,23W_EQ_K1-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_004,,CLOSED,Subsurface Mooring
+Germany,2009-11-05T18:44:00,0,-23,,Subsurface Mooring Custom,23W_EQ_K1-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_005,,CLOSED,Subsurface Mooring
+Germany,2011-06-03T14:28:00,0.0033,-23.113,,Subsurface Mooring Custom,23W_EQ_K1-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_006,,CLOSED,Subsurface Mooring
+Germany,2012-11-06T15:14:00,0.0033,-23.113,,Subsurface Mooring Custom,23W_EQ_K1-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_007,,CLOSED,Subsurface Mooring
+Germany,2014-05-04T13:27:00,0.0056,-23.122,,Subsurface Mooring Custom,23W_EQ_K1-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_008,,CLOSED,Subsurface Mooring
+Germany,2015-09-23T12:42:00,0.0033,-23.1133,,Subsurface Mooring Custom,23W_EQ_K1-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_009,,CLOSED,Subsurface Mooring
+Germany,2016-09-15T19:34:00,-9.0E-4,-23.1131,,Subsurface Mooring Custom,23W_EQ_K1-11,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_010,,CLOSED,Subsurface Mooring
+Germany,2018-02-24T17:32:00,-1.0E-4,-23.1134,,Subsurface Mooring Custom,23W_EQ_K1-12,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_011,,CLOSED,Subsurface Mooring
+Germany,2019-10-12T13:19:00,0,-23.1133,,Subsurface Mooring Custom,23W_EQ_K1-13,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801011_012,,OPERATIONAL,Subsurface Mooring
+Germany,2015-09-19T13:50:00,5.0167,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_006,,CLOSED,Subsurface Mooring
+Germany,2012-11-02T00:00:00,5.0167,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_004,,CLOSED,Subsurface Mooring
+Germany,2014-04-29T00:00:00,5.0167,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_005,,CLOSED,Subsurface Mooring
+Germany,2016-09-11T19:27:00,5.0134,-22.9999,,Subsurface Mooring Custom,ETNA_OMZ_5N-10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_007,,CLOSED,Subsurface Mooring
+Germany,2012-11-01T00:00:00,4.5333,-22.416,,Subsurface Mooring Custom,ETNA_OMZ_5N-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801011,,CLOSED,Subsurface Mooring
+Germany,2012-10-31T00:00:00,4.6,-23.416,,Subsurface Mooring Custom,ETNA_OMZ_5N-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801012,,CLOSED,Subsurface Mooring
+Germany,2011-05-15T20:16:00,5.015,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_003,,CLOSED,Subsurface Mooring
+Germany,2009-10-31T17:35:00,5,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_002,,CLOSED,Subsurface Mooring
+Germany,2008-02-27T18:30:00,5.015,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010_001,,CLOSED,Subsurface Mooring
+Germany,2006-07-03T11:36:00,5,-23,,Subsurface Mooring Custom,ETNA_OMZ_5N-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801010,,CLOSED,Subsurface Mooring
+Germany,2008-02-26T10:49:00,8.0167,-22.9833,,Subsurface Mooring Custom,ETNA_OMZ_8N-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801013,,CLOSED,Subsurface Mooring
+Germany,2009-11-18T13:47:00,8.0178,-22.983,,Subsurface Mooring Custom,ETNA_OMZ_8N-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801013_001,,CLOSED,Subsurface Mooring
+Germany,2011-05-14T18:51:00,8.0178,-22.983,,Subsurface Mooring Custom,ETNA_OMZ_8N-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801013_002,,CLOSED,Subsurface Mooring
+Germany,2012-10-27T00:00:00,11.0369,-21.221,,Subsurface Mooring Custom,ETNA_OMZ_11N-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801014,,CLOSED,Subsurface Mooring
+Germany,2014-04-25T13:45:00,11.0933,-21.297,,Subsurface Mooring Custom,ETNA_OMZ_11N-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801014_001,,CLOSED,Subsurface Mooring
+Germany,2015-09-14T20:46:00,11.037,-21.2215,,Subsurface Mooring Custom,ETNA_OMZ_11N-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801014_002,,CLOSED,Subsurface Mooring
+Germany,2016-09-08T21:02:00,11.0371,-21.2213,,Subsurface Mooring Custom,ETNA_OMZ_11N-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1801014_003,,CLOSED,Subsurface Mooring
+Germany,2018-05-30T14:34:00,52.8403,-51.5485,,Subsurface Mooring Custom,LABSEA_K7-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801047_004,,INACTIVE,Subsurface Mooring
+Germany,2018-02-14T15:18:00,17.6089,-24.247,,Mooring Custom,CVOO09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_008,,CLOSED,Mooring
+Germany,2019-11-19T17:05:00,17.6091,-24.2475,,Mooring Custom,CVOO10,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,1800475_009,,OPERATIONAL,Mooring
+Germany,2000-11-25T00:00:00,-10.38,-35.68,,Subsurface Mooring Custom,11S_K2-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_001,,CLOSED,Subsurface Mooring
+Germany,2002-02-05T00:00:00,-10.378,-35.671,,Subsurface Mooring Custom,11S_K2-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002_002,,CLOSED,Subsurface Mooring
+Germany,2000-03-18T00:00:00,-10.38,-35.68,,Subsurface Mooring Custom,11S_K2-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801002,,CLOSED,Subsurface Mooring
+Germany,2014-08-09T12:30:00,52.8758,-51.486,,Subsurface Mooring Custom,LABSEA_K7-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801047_002,,CLOSED,Subsurface Mooring
+Germany,2016-05-18T22:32:00,52.8403,-51.5483,,Subsurface Mooring Custom,LABSEA_K7-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801047_003,,CLOSED,Subsurface Mooring
+Germany,1997-07-14T22:30:00,52.8517,-51.596,,Subsurface Mooring Custom,LABSEA_K7-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801047,,CLOSED,Subsurface Mooring
+Germany,2012-05-18T01:23:00,52.8657,-51.489,,Subsurface Mooring Custom,LABSEA_K7-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,4801047_001,,CLOSED,Subsurface Mooring
+Germany,2006-06-20T15:25:00,0.75,-23,,Subsurface Mooring Custom,23W_EQ_K2-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801012,,CLOSED,Subsurface Mooring
+Germany,2008-03-06T10:35:00,0.7528,-22.988,,Subsurface Mooring Custom,23W_EQ_K2-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801012_001,,CLOSED,Subsurface Mooring
+Germany,2014-05-15T15:13:00,-10.266,-35.851,,Subsurface Mooring Custom,11S_K1-05,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_004,,CLOSED,Subsurface Mooring
+Germany,2000-03-18T00:00:00,-10.241,-35.863,,Subsurface Mooring Custom,11S_K1-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001,,CLOSED,Subsurface Mooring
+Germany,2003-05-10T10:14:00,-10.266,-35.861,,Subsurface Mooring Custom,11S_K1-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_002,,CLOSED,Subsurface Mooring
+Germany,2002-02-02T00:00:00,-10.241,-35.863,,Subsurface Mooring Custom,11S_K1-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_001,,CLOSED,Subsurface Mooring
+Germany,2013-07-06T00:00:00,-10.267,-35.8617,,Subsurface Mooring Custom,11S_K1-04,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_003,,CLOSED,Subsurface Mooring
+Germany,2015-10-01T12:25:00,-10.2667,-35.8617,,Subsurface Mooring Custom,11S_K1-06,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_005,,CLOSED,Subsurface Mooring
+Germany,2016-09-26T19:21:00,-10.2666,-35.8614,,Subsurface Mooring Custom,11S_K1-07,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_006,,CLOSED,Subsurface Mooring
+Germany,2018-03-07T11:07:00,-10.2661,-35.8608,,Subsurface Mooring Custom,11S_K1-08,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_007,,CLOSED,Subsurface Mooring
+Germany,2019-10-30T20:37:00,-10.2665,-35.8607,,Subsurface Mooring Custom,11S_K1-09,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801001_008,,OPERATIONAL,Subsurface Mooring
+Germany,2009-11-03T18:29:00,0.7522,-22.988,,Subsurface Mooring Custom,23W_EQ_K2-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801012_002,,CLOSED,Subsurface Mooring
+Germany,2006-06-18T18:21:00,-0.75,-23,,Subsurface Mooring Custom,23W_EQ_K3-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801013,,CLOSED,Subsurface Mooring
+Germany,2009-11-12T11:33:00,-0.7492,-22.9957,,Subsurface Mooring Custom,23W_EQ_K3-03,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801013_002,,CLOSED,Subsurface Mooring
+Germany,2008-03-04T18:43:00,-0.749,-22.995,,Subsurface Mooring Custom,23W_EQ_K3-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801013_001,,CLOSED,Subsurface Mooring
+Germany,2008-02-28T20:55:00,2.0417,-23.0333,,Subsurface Mooring Custom,23W_EQ_K4-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801014,,CLOSED,Subsurface Mooring
+Germany,2009-11-02T12:41:00,2.0478,-23.023,,Subsurface Mooring Custom,23W_EQ_K4-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801014_001,,CLOSED,Subsurface Mooring
+Germany,2009-11-11T17:29:00,-2.0006,-22.9996,,Subsurface Mooring Custom,23W_EQ_K5-02,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801015_001,,CLOSED,Subsurface Mooring
+Germany,2008-03-03T15:08:00,-1.945,-22.9442,,Subsurface Mooring Custom,23W_EQ_K5-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801015,,CLOSED,Subsurface Mooring
+Germany,2006-06-21T18:01:00,0,-21.5,,Subsurface Mooring Custom,23W_EQ_K6-01,"AtlantOS, OceanSITES",OceanSITES,OS-GEOMAR,3801016,,CLOSED,Subsurface Mooring
+United States,2014-08-18T00:00:00,59.1054,-47.335,,Mooring Custom,OM15,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP1163854319,,INACTIVE,Mooring
+United States,2014-08-19T00:00:00,59.307,-46.8671,,Mooring Custom,OM17,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1655943289,,INACTIVE,Mooring
+United States,2014-08-20T00:00:00,59.4526,-46.5258,,Mooring Custom,OM18,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-684649163,,INACTIVE,Mooring
+United States,2014-08-21T00:00:00,59.5404,-46.3221,,Mooring Custom,OM19,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP1121309951,,INACTIVE,Mooring
+United States,2014-08-21T00:00:00,59.6217,-46.1427,,Mooring Custom,OM20,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-909872690,,INACTIVE,Mooring
+United States,2014-08-22T00:00:00,59.6902,-45.9683,,Mooring Custom,OM21,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP2119166540,,INACTIVE,Mooring
+United States,2014-08-22T00:00:00,59.7422,-45.8455,,Mooring Custom,OM22,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-838713020,,INACTIVE,Mooring
+United States,2014-08-22T00:00:00,59.7931,-45.7209,,Mooring Custom,OM23,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1542513238,,INACTIVE,Mooring
+United States,2014-08-15T00:00:00,60.0699,-42.8257,,Mooring Custom,OM24,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-21597735,,INACTIVE,Mooring
+United States,2014-08-15T00:00:00,60.0477,-42.5995,,Mooring Custom,OM25,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP1139796704,,INACTIVE,Mooring
+United States,2014-08-15T00:00:00,60.0307,-42.4285,,Mooring Custom,OM26,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1924987632,,INACTIVE,Mooring
+United States,2014-08-14T00:00:00,60.0061,-42.2053,,Mooring Custom,OM27,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP752943796,,INACTIVE,Mooring
+United States,2014-08-14T00:00:00,59.988,-42.0259,,Mooring Custom,OM28,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP24005362,,INACTIVE,Mooring
+United States,2014-08-12T00:00:00,59.9579,-41.7395,,Mooring Custom,OM29,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1250361143,,INACTIVE,Mooring
+United States,2014-08-12T00:00:00,59.9265,-41.4377,,Mooring Custom,OM30,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP525747799,,INACTIVE,Mooring
+United States,2014-09-12T00:00:00,59.7668,-39.8425,,Mooring Custom,OM34,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-903747798,,INACTIVE,Mooring
+United States,2014-09-11T00:00:00,59.9753,-39.4818,,Mooring Custom,OM37,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1255628864,,INACTIVE,Mooring
+United States,2014-09-10T00:00:00,59.9337,-39.4738,,Mooring Custom,OM38,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1123285369,,INACTIVE,Mooring
+United States,2014-09-16T00:00:00,59.7128,-39.3204,,Mooring Custom,OM39,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-2109317722,,INACTIVE,Mooring
+United States,2014-07-13T00:00:00,58.307,-28.8187,,Mooring Custom,OM50,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP955361632,,INACTIVE,Mooring
+United States,2014-07-13T00:00:00,58.0377,-28.0215,,Mooring Custom,OM51,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1868168415,,INACTIVE,Mooring
+United States,2014-08-14T00:00:00,57.529,-53.993,,Sound Source Mooring,OS1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP1189612320,,INACTIVE,Mooring
+United States,2014-08-25T00:00:00,54.9912,-49.5026,,Sound Source Mooring,OS2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP449139356,,INACTIVE,Mooring
+United States,2014-08-23T00:00:00,58.9468,-47.4524,,Sound Source Mooring,OS3,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1925115309,,INACTIVE,Mooring
+United States,2014-06-24T00:00:00,52.4958,-42.9998,,Sound Source Mooring,OS4,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP718154510,,INACTIVE,Mooring
+United States,2014-08-10T00:00:00,59.7569,-40.6039,,Sound Source Mooring,OS5,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-1099270116,,INACTIVE,Mooring
+United States,2014-06-25T00:00:00,50.4925,-38.5118,,Sound Source Mooring,OS6,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP1578159815,,INACTIVE,Mooring
+United States,2014-07-09T00:00:00,59.0388,-34.2362,,Sound Source Mooring,OS7,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP-180147243,,INACTIVE,Mooring
+United States,2014-06-27T00:00:00,53.004,-29.9905,,Sound Source Mooring,OS8,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP783732365,,INACTIVE,Mooring
+United States,2014-07-14T00:00:00,58.021,-27.8169,,Sound Source Mooring,OS9,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP1042624404,,INACTIVE,Mooring
+United States,2014-07-15T00:00:00,58.0084,-22.9902,,Sound Source Mooring,OS10,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,TMP485365804,,INACTIVE,Mooring
+United States,2018-06-17T11:25:00,59.9045,-41.1118,,Subsurface Mooring Custom,M1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,4801071_003,,CLOSED,Subsurface Mooring
+United States,2018-06-18T10:51:00,59.8606,-40.6885,,Subsurface Mooring Custom,M2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,4801072_003,,CLOSED,Subsurface Mooring
+United States,2018-06-19T11:12:00,59.8136,-40.2822,,Subsurface Mooring Custom,M3,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,4801073_003,,CLOSED,Subsurface Mooring
+United States,2018-06-13T10:57:00,59.6803,-38.568,,Subsurface Mooring Custom,M4,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-WHOI,4801074_003,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2015-09-04T01:50:00,37.33,131.45,,Subsurface Mooring Custom,EC1_19,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_018,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2018-07-20T00:00:00,37.3438,131.3797,,Subsurface Mooring Custom,EC1_22,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_021,,CLOSED,Subsurface Mooring
+Korea (Republic Of),1996-11-03T00:00:00,37.34,131.41,,Subsurface Mooring Custom,EC1_1,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000,,CLOSED,Subsurface Mooring
+Korea (Republic Of),1997-10-15T00:00:00,37.37,131.41,,Subsurface Mooring Custom,EC1_2,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_001,,CLOSED,Subsurface Mooring
+Korea (Republic Of),1998-10-20T00:00:00,37.36,131.4,,Subsurface Mooring Custom,EC1_3,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_002,,CLOSED,Subsurface Mooring
+Korea (Republic Of),1999-05-24T00:00:00,37.38,131.39,,Subsurface Mooring Custom,EC1_4,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_003,,CLOSED,Subsurface Mooring
+Korea (Republic Of),1999-10-21T00:00:00,37.36,131.4,,Subsurface Mooring Custom,EC1_5,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_004,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2000-05-19T00:00:00,37.36,131.4,,Subsurface Mooring Custom,EC1_6,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_005,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2001-04-13T00:00:00,37.33,131.42,,Subsurface Mooring Custom,EC1_7,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_006,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2001-10-14T00:00:00,37.32,131.43,,Subsurface Mooring Custom,EC1_8,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_007,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2002-11-29T00:00:00,37.32,131.43,,Subsurface Mooring Custom,EC1_9,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_008,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2004-04-08T00:00:00,37.32,131.41,,Subsurface Mooring Custom,EC1_10,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_009,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2005-06-17T00:00:00,37.32,131.41,,Subsurface Mooring Custom,EC1_11,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_010,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2006-05-25T00:00:00,37.22,131.41,,Subsurface Mooring Custom,EC1_12,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_011,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2007-09-12T00:00:00,37.33,131.42,,Subsurface Mooring Custom,EC1_13,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_012,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2008-11-05T00:00:00,37.35,131.45,,Subsurface Mooring Custom,EC1_14,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_013,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2010-02-22T00:00:00,37.35,131.44,,Subsurface Mooring Custom,EC1_15,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_014,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2011-03-12T00:00:00,37.33,131.45,,Subsurface Mooring Custom,EC1_16,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_015,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2017-05-18T00:00:00,37.34,131.45,,Subsurface Mooring Custom,EC1_20,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_019,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2017-07-21T00:00:00,37.34,131.38,,Subsurface Mooring Custom,EC1_21,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_020,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2019-12-09T11:00:00,37.34,131.37,,Subsurface Mooring Custom,EC1_23,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_022,,INACTIVE,Subsurface Mooring
+Korea (Republic Of),2014-08-29T03:00:00,37.33,131.45,,Subsurface Mooring Custom,EC1_18,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_017,,CLOSED,Subsurface Mooring
+Korea (Republic Of),2012-07-27T10:30:00,37.33,131.45,,Subsurface Mooring Custom,EC1_17,"EAST/JAPAN SEA, OceanSITES",OceanSITES,OS-SNU,2801000_016,,CLOSED,Subsurface Mooring
+Denmark,2018-06-18T09:30:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB26,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP6O1029M2IN,,CLOSED,Subsurface Mooring
+Denmark,2018-09-19T12:10:00,61.4,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC19,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP4MWF1BSSAT,,CLOSED,Subsurface Mooring
+Denmark,2019-06-08T19:10:53,62.9,-6.1,,Subsurface Mooring Custom,FAROECURR-NB_26,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_025,,CLOSED,Subsurface Mooring
+Denmark,1997-06-15T00:00:00,62.7,-6.1,,Subsurface Mooring Custom,FAROECURR-NWNA,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP8BY3M1STP9,,CLOSED,Subsurface Mooring
+Denmark,1996-01-24T00:00:00,62.71,-6.09,,Subsurface Mooring Custom,FAROECURR-NA_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1340401494,,CLOSED,Subsurface Mooring
+Denmark,1996-06-16T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_02,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-427286888,,CLOSED,Subsurface Mooring
+Denmark,1997-06-14T00:00:00,62.71,-6.09,,Subsurface Mooring Custom,FAROECURR-NA_03,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1405853517,,CLOSED,Subsurface Mooring
+Denmark,1998-07-07T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_04,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1196997142,,CLOSED,Subsurface Mooring
+Denmark,1999-07-02T00:00:00,62.7,-6.06,,Subsurface Mooring Custom,FAROECURR-NA_05,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP20069769,,CLOSED,Subsurface Mooring
+Denmark,2000-07-07T00:00:00,62.7,-6.07,,Subsurface Mooring Custom,FAROECURR-NA_06,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-142841628,,CLOSED,Subsurface Mooring
+Denmark,2001-07-06T00:00:00,62.7,-6.07,,Subsurface Mooring Custom,FAROECURR-NA_07,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-854412064,,CLOSED,Subsurface Mooring
+Denmark,2002-07-05T00:00:00,62.7,-6.07,,Subsurface Mooring Custom,FAROECURR-NA_08,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1164534754,,CLOSED,Subsurface Mooring
+Denmark,2003-07-04T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_09,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-148912795,,CLOSED,Subsurface Mooring
+Denmark,2004-07-02T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_10,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP579569644,,CLOSED,Subsurface Mooring
+Denmark,2005-06-11T00:00:00,62.7,-6.07,,Subsurface Mooring Custom,FAROECURR-NA_11,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-525085139,,CLOSED,Subsurface Mooring
+Denmark,2006-06-09T00:00:00,62.71,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_12,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-730435393,,CLOSED,Subsurface Mooring
+Denmark,2007-06-08T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_13,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1051134010,,CLOSED,Subsurface Mooring
+Denmark,2008-06-05T00:00:00,62.7,-6.09,,Subsurface Mooring Custom,FAROECURR-NA_14,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1518469004,,CLOSED,Subsurface Mooring
+Denmark,2009-06-05T00:00:00,62.7,-6.09,,Subsurface Mooring Custom,FAROECURR-NA_15,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP156443591,,CLOSED,Subsurface Mooring
+Denmark,2010-06-04T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_16,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP107183295,,CLOSED,Subsurface Mooring
+Denmark,2011-06-10T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_17,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP671688441,,CLOSED,Subsurface Mooring
+Denmark,2012-06-07T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_18,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-649284856,,CLOSED,Subsurface Mooring
+Denmark,2013-06-09T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_19,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP453420466,,CLOSED,Subsurface Mooring
+Denmark,2014-06-05T00:00:00,62.7,-6.08,,Subsurface Mooring Custom,FAROECURR-NA_20,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1168314615,,CLOSED,Subsurface Mooring
+Denmark,1994-10-22T00:00:00,63.27,-6.11,,Subsurface Mooring Custom,FAROECURR-NC_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1582481010,,CLOSED,Subsurface Mooring
+Denmark,1996-06-16T00:00:00,63.27,-6.11,,Subsurface Mooring Custom,FAROECURR-NC_02,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-328412618,,CLOSED,Subsurface Mooring
+Denmark,1997-06-13T00:00:00,63.27,-6.11,,Subsurface Mooring Custom,FAROECURR-NC_03,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1739613305,,CLOSED,Subsurface Mooring
+Denmark,1998-07-05T00:00:00,63.27,-6.1,,Subsurface Mooring Custom,FAROECURR-NC_04,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP138100500,,CLOSED,Subsurface Mooring
+Denmark,1999-07-02T00:00:00,63.27,-6.11,,Subsurface Mooring Custom,FAROECURR-NC_05,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1991170902,,CLOSED,Subsurface Mooring
+Denmark,1997-11-11T00:00:00,62.96,-6.09,,Subsurface Mooring Custom,FAROECURR-4_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-769053195,,CLOSED,Subsurface Mooring
+Denmark,2000-07-06T00:00:00,62.79,-6.09,,Subsurface Mooring Custom,FAROECURR-NE_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-101128735,,CLOSED,Subsurface Mooring
+Denmark,2004-07-02T00:00:00,62.79,-6.09,,Subsurface Mooring Custom,FAROECURR-NE_02,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP171817435,,CLOSED,Subsurface Mooring
+Denmark,2005-06-11T00:00:00,62.79,-6.07,,Subsurface Mooring Custom,FAROECURR-NE_03,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1765315432,,CLOSED,Subsurface Mooring
+Denmark,2006-06-09T00:00:00,62.8,-6.08,,Subsurface Mooring Custom,FAROECURR-NE_04,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-333636229,,CLOSED,Subsurface Mooring
+Denmark,2007-06-08T00:00:00,62.79,-6.08,,Subsurface Mooring Custom,FAROECURR-NE_05,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1748822704,,CLOSED,Subsurface Mooring
+Denmark,2008-06-06T00:00:00,62.79,-6.08,,Subsurface Mooring Custom,FAROECURR-NE_06,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP389320803,,CLOSED,Subsurface Mooring
+Denmark,2009-06-05T00:00:00,62.79,-6.08,,Subsurface Mooring Custom,FAROECURR-NE_07,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP736340663,,CLOSED,Subsurface Mooring
+Denmark,2010-06-04T00:00:00,62.79,-6.08,,Subsurface Mooring Custom,FAROECURR-NE_08,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-8810168,,CLOSED,Subsurface Mooring
+Denmark,2000-07-07T00:00:00,62.88,-6.08,,Subsurface Mooring Custom,FAROECURR-6_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1773322143,,CLOSED,Subsurface Mooring
+Denmark,2002-07-05T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_03,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP567672105,,CLOSED,Subsurface Mooring
+Denmark,2003-07-05T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_04,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1288933936,,CLOSED,Subsurface Mooring
+Denmark,2004-07-02T00:00:00,63.1,-6.09,,Subsurface Mooring Custom,FAROECURR-NG_05,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP111416785,,CLOSED,Subsurface Mooring
+Denmark,2005-06-11T00:00:00,63.11,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_06,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1645106862,,CLOSED,Subsurface Mooring
+Denmark,2006-06-09T00:00:00,63.1,-6.09,,Subsurface Mooring Custom,FAROECURR-NG_07,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1560860353,,CLOSED,Subsurface Mooring
+Denmark,2007-06-08T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_08,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-263476757,,CLOSED,Subsurface Mooring
+Denmark,2008-06-06T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_09,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-166799148,,CLOSED,Subsurface Mooring
+Denmark,2009-06-05T00:00:00,63.11,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_10,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP562929745,,CLOSED,Subsurface Mooring
+Denmark,2010-06-04T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_11,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1046677202,,CLOSED,Subsurface Mooring
+Denmark,2011-06-10T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_12,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP548234375,,CLOSED,Subsurface Mooring
+Denmark,2000-07-07T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1317574720,,CLOSED,Subsurface Mooring
+Denmark,2001-07-06T00:00:00,63.11,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_02,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1981977198,,CLOSED,Subsurface Mooring
+Denmark,2013-06-09T00:00:00,63.1,-6.1,,Subsurface Mooring Custom,FAROECURR-NG_13,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP582983244,,CLOSED,Subsurface Mooring
+Denmark,2014-06-06T00:00:00,63.1,-6.08,,Subsurface Mooring Custom,FAROECURR-NG_14,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP954005733,,CLOSED,Subsurface Mooring
+Denmark,2015-06-14T00:00:00,63.5,-6.07,,Subsurface Mooring Custom,FAROECURR-8_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-390020343,,CLOSED,Subsurface Mooring
+Denmark,2017-06-09T00:00:00,62.58,-6.09,,Subsurface Mooring Custom,FAROECURR-9_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP707570842,,CLOSED,Subsurface Mooring
+Denmark,2014-10-18T09:34:00,62.8,-6.1,,Subsurface Mooring Custom,FAROECURR-NT01,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP873481036,,INACTIVE,Subsurface Mooring
+Denmark,1994-10-22T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_01,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005,,CLOSED,Subsurface Mooring
+Denmark,1997-06-13T00:00:00,62.91,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_02,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_001,,CLOSED,Subsurface Mooring
+Denmark,1998-07-04T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_03,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_002,,CLOSED,Subsurface Mooring
+Denmark,1999-07-02T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_04,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_003,,CLOSED,Subsurface Mooring
+Denmark,1999-08-20T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_05,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_004,,CLOSED,Subsurface Mooring
+Denmark,2000-07-07T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_06,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_005,,CLOSED,Subsurface Mooring
+Denmark,2001-07-06T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_07,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_006,,CLOSED,Subsurface Mooring
+Denmark,2002-07-05T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_08,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_007,,CLOSED,Subsurface Mooring
+Denmark,2003-07-05T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_09,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_008,,CLOSED,Subsurface Mooring
+Denmark,2004-07-02T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_10,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_009,,CLOSED,Subsurface Mooring
+Denmark,2005-06-11T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_11,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_010,,CLOSED,Subsurface Mooring
+Denmark,2006-02-16T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_12,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_011,,CLOSED,Subsurface Mooring
+Denmark,2006-06-09T00:00:00,62.91,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_13,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_012,,CLOSED,Subsurface Mooring
+Denmark,2007-06-08T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_14,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_013,,CLOSED,Subsurface Mooring
+Denmark,2008-06-06T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_15,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_014,,CLOSED,Subsurface Mooring
+Denmark,2009-06-05T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_16,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_015,,CLOSED,Subsurface Mooring
+Denmark,2010-06-04T00:00:00,62.92,-6.09,,Subsurface Mooring Custom,FAROECURR-NB_17,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_016,,CLOSED,Subsurface Mooring
+Denmark,2011-06-10T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_18,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_017,,CLOSED,Subsurface Mooring
+Denmark,2012-06-08T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_19,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_018,,CLOSED,Subsurface Mooring
+Denmark,2013-06-09T00:00:00,62.91,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_19,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_019,,CLOSED,Subsurface Mooring
+Denmark,2014-06-06T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_21,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_020,,CLOSED,Subsurface Mooring
+Denmark,2015-06-14T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_22,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_021,,CLOSED,Subsurface Mooring
+Denmark,2016-06-08T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_23,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_022,,CLOSED,Subsurface Mooring
+Denmark,2017-06-09T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_24,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_023,,CLOSED,Subsurface Mooring
+Denmark,2018-06-16T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_25,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_024,,CLOSED,Subsurface Mooring
+Denmark,2020-06-14T00:00:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_27,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_026,,CLOSED,Subsurface Mooring
+Denmark,1998-07-03T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC1,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1884125081,,CLOSED,Subsurface Mooring
+Denmark,2002-07-07T00:00:00,61.39,-8.31,,Subsurface Mooring Custom,FAROEBCO-2_NWFC2,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1840883487,,CLOSED,Subsurface Mooring
+Denmark,2002-09-13T00:00:00,61.39,-8.31,,Subsurface Mooring Custom,FAROEBCO-2_NWFC3,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-2032847530,,CLOSED,Subsurface Mooring
+Denmark,2003-07-05T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC4,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1639999310,,CLOSED,Subsurface Mooring
+Denmark,2003-11-07T00:00:00,61.39,-8.31,,Subsurface Mooring Custom,FAROEBCO-2_NWFC5,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP2136306433,,CLOSED,Subsurface Mooring
+Denmark,2004-07-03T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC6,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1725947798,,CLOSED,Subsurface Mooring
+Denmark,2005-06-11T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC7,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1891600762,,CLOSED,Subsurface Mooring
+Denmark,2006-06-12T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC8,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP488608948,,CLOSED,Subsurface Mooring
+Denmark,2007-06-09T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC9,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP270721058,,CLOSED,Subsurface Mooring
+Denmark,2008-06-06T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC10,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP694645674,,CLOSED,Subsurface Mooring
+Denmark,2009-06-07T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC11,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP735968639,,CLOSED,Subsurface Mooring
+Denmark,2010-06-05T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC12,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-894455756,,CLOSED,Subsurface Mooring
+Denmark,2011-06-12T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC13,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-686998123,,CLOSED,Subsurface Mooring
+Denmark,2013-06-07T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC14,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP668952112,,CLOSED,Subsurface Mooring
+Denmark,2014-08-29T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC15,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1766917974,,CLOSED,Subsurface Mooring
+Denmark,2015-06-13T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC16,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1242219477,,CLOSED,Subsurface Mooring
+Denmark,2016-06-10T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC17,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1453556082,,CLOSED,Subsurface Mooring
+Denmark,2017-06-13T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC18,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1860251763,,CLOSED,Subsurface Mooring
+Denmark,2020-06-12T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_21,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-586681716,,INACTIVE,Subsurface Mooring
+Denmark,2019-06-09T00:00:00,61.39,-8.32,,Subsurface Mooring Custom,FAROEBCO-2_NWFC20,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-2075969097,,CLOSED,Subsurface Mooring
+Denmark,1994-10-24T00:00:00,61.38,-7.82,,Subsurface Mooring Custom,FAROEBCO-1_NWFB1,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1915159598,,CLOSED,Subsurface Mooring
+Denmark,1995-11-12T00:00:00,61.42,-8.29,,Subsurface Mooring Custom,FAROEBCO-1_NWFB2,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-196547597,,CLOSED,Subsurface Mooring
+Denmark,1996-06-15T00:00:00,61.42,-8.29,,Subsurface Mooring Custom,FAROEBCO-1_NWFB3,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP439523779,,CLOSED,Subsurface Mooring
+Denmark,1997-06-16T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB4,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1845111592,,CLOSED,Subsurface Mooring
+Denmark,1998-07-03T00:00:00,61.42,-8.29,,Subsurface Mooring Custom,FAROEBCO-1_NWFB5,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP473161252,,CLOSED,Subsurface Mooring
+Denmark,1998-09-12T00:00:00,61.42,-8.29,,Subsurface Mooring Custom,FAROEBCO-1_NWFB6,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-384036897,,CLOSED,Subsurface Mooring
+Denmark,1999-07-04T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB7,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1944802686,,CLOSED,Subsurface Mooring
+Denmark,2000-07-09T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB8,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1056740227,,CLOSED,Subsurface Mooring
+Denmark,2001-07-08T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB9,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP719227289,,CLOSED,Subsurface Mooring
+Denmark,2002-07-07T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB10,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1092363638,,CLOSED,Subsurface Mooring
+Denmark,2003-07-05T00:00:00,61.41,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB11,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP349456156,,CLOSED,Subsurface Mooring
+Denmark,2004-07-03T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB12,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-412952485,,CLOSED,Subsurface Mooring
+Denmark,2005-06-11T00:00:00,61.41,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB13,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1511590008,,CLOSED,Subsurface Mooring
+Denmark,2006-06-12T00:00:00,61.42,-8.29,,Subsurface Mooring Custom,FAROEBCO-1_NWFB14,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP661000785,,CLOSED,Subsurface Mooring
+Denmark,2007-06-09T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB15,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-375527732,,CLOSED,Subsurface Mooring
+Denmark,2008-06-06T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB16,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-486061841,,CLOSED,Subsurface Mooring
+Denmark,2009-06-07T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB17,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1491885064,,CLOSED,Subsurface Mooring
+Denmark,2010-06-05T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB18,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP2074903680,,CLOSED,Subsurface Mooring
+Denmark,2011-06-12T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB19,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-926121832,,CLOSED,Subsurface Mooring
+Denmark,2012-09-30T00:00:00,61.41,-8.29,,Subsurface Mooring Custom,FAROEBCO-1_NWFB20,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP1771833358,,CLOSED,Subsurface Mooring
+Denmark,2013-06-07T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB21,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1288893355,,CLOSED,Subsurface Mooring
+Denmark,2014-06-09T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB22,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-515215913,,CLOSED,Subsurface Mooring
+Denmark,2015-06-13T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB23,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-558451615,,CLOSED,Subsurface Mooring
+Denmark,2016-06-10T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB24,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-152969645,,CLOSED,Subsurface Mooring
+Denmark,2017-06-13T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB25,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP-1959170915,,CLOSED,Subsurface Mooring
+Denmark,2019-06-09T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_NWFB27,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP622636314,,CLOSED,Subsurface Mooring
+Denmark,2020-06-12T00:00:00,61.42,-8.28,,Subsurface Mooring Custom,FAROEBCO-1_28,"AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,TMP208711716,,INACTIVE,Subsurface Mooring
+Denmark,2021-06-14T00:56:00,62.92,-6.08,,Subsurface Mooring Custom,FAROECURR-NB_28,"ASOF, AtlantOS, NACLIM, OceanSITES",OceanSITES,OS-HAV-FAROE,6801005_027,,OPERATIONAL,Subsurface Mooring
+United Kingdom,2014-08-11T00:00:00,59.9041,-41.1402,,Subsurface Mooring Custom,M1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801071,,CLOSED,Subsurface Mooring
+United Kingdom,2014-08-09T00:00:00,59.861,-40.687,,Subsurface Mooring Custom,M2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801072,,CLOSED,Subsurface Mooring
+United Kingdom,2014-08-09T00:00:00,59.8158,-40.2786,,Subsurface Mooring Custom,M3,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801073,,CLOSED,Subsurface Mooring
+United Kingdom,2014-08-08T00:00:00,59.6478,-38.5672,,Subsurface Mooring Custom,M4,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801074,,CLOSED,Subsurface Mooring
+United Kingdom,2015-07-24T00:00:00,59.903,-41.1118,,Subsurface Mooring Custom,M1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801071_001,,CLOSED,Subsurface Mooring
+United Kingdom,2015-07-22T00:00:00,59.8591,-40.6889,,Subsurface Mooring Custom,M2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801072_001,,CLOSED,Subsurface Mooring
+United Kingdom,2015-07-22T00:00:00,59.8148,-40.2765,,Subsurface Mooring Custom,M3,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801073_001,,CLOSED,Subsurface Mooring
+United Kingdom,2015-07-20T00:00:00,59.6466,-38.5657,,Subsurface Mooring Custom,M4,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801074_001,,CLOSED,Subsurface Mooring
+United Kingdom,2016-07-31T00:00:00,59.9043,-41.108,,Subsurface Mooring Custom,M1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801071_002,,CLOSED,Subsurface Mooring
+United Kingdom,2016-07-31T00:00:00,59.8602,-40.6865,,Subsurface Mooring Custom,M2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801072_002,,CLOSED,Subsurface Mooring
+United Kingdom,2016-08-02T00:00:00,59.8162,-40.2752,,Subsurface Mooring Custom,M3,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801073_002,,CLOSED,Subsurface Mooring
+United Kingdom,2016-08-04T00:00:00,59.6482,-38.5657,,Subsurface Mooring Custom,M4,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801074_002,,CLOSED,Subsurface Mooring
+United Kingdom,2014-08-08T00:00:00,59.5808,-37.7983,,Subsurface Mooring Custom,M5,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801075,,CLOSED,Subsurface Mooring
+United Kingdom,2015-07-20T00:00:00,59.5771,-37.7992,,Subsurface Mooring Custom,M5,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801075_001,,CLOSED,Subsurface Mooring
+United Kingdom,2016-08-05T00:00:00,59.578,-37.7942,,Subsurface Mooring Custom,M5,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-NOC,4801075_002,,CLOSED,Subsurface Mooring
+United Kingdom,2015-06-22T11:30:00,57.4707,-12.3312,,Subsurface Mooring Custom,RTWB2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801002_001,,CLOSED,Subsurface Mooring
+United Kingdom,2014-10-30T00:00:00,57.104,-9.3386,,Benthic Mooring Custom,RTADCP2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801004,,CLOSED,Benthic Mooring
+United Kingdom,2014-07-17T00:00:00,57.4703,-12.3312,,Subsurface Mooring Custom,RTWB2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801002,,CLOSED,Subsurface Mooring
+United Kingdom,2016-07-04T14:00:00,57.4679,-12.3122,,Subsurface Mooring Custom,RTWB2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801002_002,,CLOSED,Subsurface Mooring
+United Kingdom,2014-07-18T14:30:00,57.0993,-9.548,,Subsurface Mooring Custom,RTEB1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801003,,CLOSED,Subsurface Mooring
+United Kingdom,2014-07-17T18:00:00,57.4707,-12.705,,Subsurface Mooring Custom,RTWB1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801001,,CLOSED,Subsurface Mooring
+United Kingdom,2018-07-09T00:00:00,57.47,-12.31,,Subsurface Mooring Custom,RTWB2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801002_004,,INACTIVE,Subsurface Mooring
+United Kingdom,2017-05-15T00:00:00,57.47,-12.31,,Subsurface Mooring Custom,RTWB2,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801002_003,,CLOSED,Subsurface Mooring
+United Kingdom,2015-06-21T00:00:00,57.1251,-9.4803,,Subsurface Mooring Custom,RTEB1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801003_001,,CLOSED,Subsurface Mooring
+United Kingdom,2015-06-20T00:00:00,57.1028,-9.3378,,Benthic Mooring Custom,RTADCP1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801004_001,,INACTIVE,Benthic Mooring
+United Kingdom,2016-07-03T00:00:00,57.1,-9.563,,Subsurface Mooring Custom,RTEB1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801003_002,,CLOSED,Subsurface Mooring
+United Kingdom,2018-07-08T00:00:00,57.0997,-9.5632,,Subsurface Mooring Custom,RTEB1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801003_004,,CLOSED,Subsurface Mooring
+United Kingdom,2017-05-13T00:00:00,57.1,-9.563,,Subsurface Mooring Custom,RTEB1,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-SAMS_DML,6801003_003,,CLOSED,Subsurface Mooring
+Canada,2014-07-03T00:00:00,52.7609,-51.8463,,Mooring Custom,,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-DFO,TMP-1633385854,,INACTIVE,Mooring
+Canada,2014-07-04T00:00:00,52.8174,-51.6893,,Mooring Custom,,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-DFO,TMP-1351046688,,INACTIVE,Mooring
+Canada,2014-07-04T00:00:00,52.7615,-51.8544,,Mooring Custom,,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-DFO,TMP1436268707,,INACTIVE,Mooring
+Canada,2014-07-03T00:00:00,52.6653,-52.0996,,Mooring Custom,,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-DFO,TMP-29766665,,INACTIVE,Mooring
+Canada,2014-07-03T00:00:00,52.6655,-52.0908,,Mooring Custom,,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-DFO,TMPJ8K8W7HA9K,,INACTIVE,Mooring
+United States,2020-08-09T00:00:00,31.91,-64.08,,Subsurface Mooring Custom,OFP,"AtlantOS, OceanSITES",OceanSITES,OS-BIOS,TMPMCBDA2PKST,,OPERATIONAL,Subsurface Mooring
+Netherlands,2014-09-16T00:00:00,59.2008,-39.504,,Mooring Custom,OM36,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),TMP-1637008835,,INACTIVE,Mooring
+Netherlands,2014-07-08T00:00:00,59.2147,-35.1258,,Mooring Custom,OM42,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),TMP135935055,,INACTIVE,Mooring
+Netherlands,2014-07-09T00:00:00,59.0988,-33.6822,,Mooring Custom,OM43,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),TMP806532312,,INACTIVE,Mooring
+Netherlands,2014-07-10T00:00:00,59.0205,-32.7675,,Mooring Custom,OM44,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),TMP1706060590,,INACTIVE,Mooring
+Netherlands,2014-07-11T00:00:00,58.8853,-31.303,,Mooring Custom,OM46,"AtlantOS, OSNAP, OceanSITES",OceanSITES,OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),TMP952238942,,INACTIVE,Mooring
+United Kingdom,2017-05-24T09:42:00,60.283,-4.301,,Subsurface Mooring Custom,NWSE1705,"AtlantOS, NACLIM, OceanSITES, THOR",OceanSITES,OS-MSS,TMP-1090814183,,CLOSED,Subsurface Mooring
+United States,2011-06-13T08:00:00,22.75,-158,2015-06-30T16:00:02,Benthic Mooring Custom,ACO,"OceanSITES, Tropical Pacific Observing System",OceanSITES,OS-UN_HAWAII_MANOA,TMP63XNT0SJSS,,OPERATIONAL,Benthic Mooring
+United States,2016-02-11T21:50:00,16.336,-60.507,,Subsurface Mooring Custom,MOVE3-12,"AtlantOS, MOVE, OceanSITES, TROPICAL ATLANTIC",OceanSITES,OS-SIO,4801053_011,,CLOSED,Subsurface Mooring
+United States,2016-07-11T00:00:00,-8.237,156.938,,Subsurface Mooring Custom,CORC-GIZO-MOORING,OceanSITES,OceanSITES,OS-SIO,TMPLS7C3JK4U4,,CLOSED,Subsurface Mooring
+United States,2016-07-11T00:00:00,-8.215,156.957,,Benthic Mooring Custom,CORC-GIZO-PIES,OceanSITES,OceanSITES,OS-SIO,TMP9AFZBBLPRH,,CLOSED,Benthic Mooring
+United States,2018-09-14T23:00:00,-10.602,152.786,,Benthic Mooring Custom,CORC-MISIMA-PIES,OceanSITES,OceanSITES,OS-SIO,TMP3X6YZBMICS,,INACTIVE,Benthic Mooring
+Japan,2014-08-12T00:00:00,34.6833,139.445,,CABLED_OBSERVATORY,OCEANS_01,OceanSITES,OceanSITES,OS-UTokyo,TMP537352035,,CLOSED,Mooring
+Japan,2015-09-05T00:00:00,34.6833,139.445,,CABLED_OBSERVATORY,OCEANS_02,OceanSITES,OceanSITES,OS-UTokyo,TMP-1241878689,,INACTIVE,Mooring

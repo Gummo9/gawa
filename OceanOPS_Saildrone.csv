@@ -1,0 +1,41 @@
+COUNTRY,DEPLOYMENT DATE,DEPLOYMENT LAT,DEPLOYMENT LON,LAST LOCATION DATE,MODEL,NAME,NETWORKS,OBSERVING NETWORKS,PROGRAM,REF,SERIAL NUMBER,STATUS,TYPE
+United States,2018-06-18T07:59:00,48.06,-125.7,,SAILDRONE,,DBCP,DBCP,Saildrone,4803909,1027,CLOSED,Sailing Drone
+United States,2018-07-22T00:00:00,48.13,-125.175,,SAILDRONE,,DBCP,DBCP,Saildrone,4803910,1028,CLOSED,Sailing Drone
+United States,2018-07-22T11:59:00,70,-165.7,,SAILDRONE,,DBCP,DBCP,Saildrone,4803902,1020,CLOSED,Sailing Drone
+United States,2018-07-23T01:00:00,70.1,-164.1,,SAILDRONE,,DBCP,DBCP,Saildrone,4803903,1021,CLOSED,Sailing Drone
+United States,2018-07-21T00:04:00,71.47,-165.2,,SAILDRONE,,DBCP,DBCP,Saildrone,4803904,1022,CLOSED,Sailing Drone
+United States,2018-07-20T00:04:00,69.5,-165.4,,SAILDRONE,,DBCP,DBCP,Saildrone,4803905,1023,CLOSED,Sailing Drone
+United States,2018-07-22T00:06:00,39.8,-124.2,,SAILDRONE,,DBCP,DBCP,Saildrone,4803906,1024,CLOSED,Sailing Drone
+United States,2018-07-23T00:03:00,39.6,-124.25,,SAILDRONE,,DBCP,DBCP,Saildrone,4803908,1026,CLOSED,Sailing Drone
+United States,2018-10-01T00:00:00,1.298,-157.865,,SAILDRONE,,"DBCP, Tropical Pacific Observing System",DBCP,Saildrone,5801952,,CLOSED,Sailing Drone
+United States,2018-10-01T00:00:00,1.298,-157.865,,SAILDRONE,,"DBCP, Tropical Pacific Observing System",DBCP,Saildrone,5801953,,CLOSED,Sailing Drone
+United States,2018-10-01T00:00:00,1.298,-157.865,,SAILDRONE,,"DBCP, Tropical Pacific Observing System",DBCP,Saildrone,5801954,,CLOSED,Sailing Drone
+United States,2018-10-01T00:00:00,1.298,-157.865,,SAILDRONE,,"DBCP, Tropical Pacific Observing System",DBCP,Saildrone,5801955,,CLOSED,Sailing Drone
+United States,2019-04-26T00:19:00,54,-166,2019-07-01T09:50:00,SAILDRONE,1033,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803911,,CLOSED,Sailing Drone
+United States,2019-04-02T00:43:00,54,-166,2019-07-01T09:50:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803912,,CLOSED,Sailing Drone
+United States,2019-04-10T00:50:00,54,-166,2019-07-01T09:50:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803913,,CLOSED,Sailing Drone
+United States,2019-04-10T00:59:00,54,-166,2019-07-01T09:50:00,SAILDRONE,sd1036,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803914,,CLOSED,Sailing Drone
+United States,2019-04-09T00:00:00,54,-166,2019-07-01T09:50:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803915,,CLOSED,Sailing Drone
+United States,2019-05-14T18:11:00,54,-166,2019-07-01T09:50:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803916,,CLOSED,Sailing Drone
+United States,2019-06-11T00:00:00,57,-157,2019-07-01T09:50:00,SAILDRONE,sd1066,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,5801956,,CLOSED,Sailing Drone
+United States,2019-05-21T00:00:00,54,-157,2019-07-01T09:50:00,SAILDRONE,SD1067,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,5801957,,CLOSED,Sailing Drone
+United States,2019-04-26T00:00:00,54,-157,2019-07-01T09:50:00,SAILDRONE,SD1068,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,5801958,,CLOSED,Sailing Drone
+United States,2019-04-26T00:00:00,54,-157,2019-07-01T09:50:00,SAILDRONE,SD1069,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,5801959,,CLOSED,Sailing Drone
+United States,2019-10-08T23:01:00,37.5,-129,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801585,,REGISTERED,Sailing Drone
+United States,2019-06-06T00:00:00,34.8,-127.5,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801567,,REGISTERED,Sailing Drone
+United States,2019-12-03T01:14:00,45,-130.5,,SAILDRONE,sd1032,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801557,,REGISTERED,Sailing Drone
+United States,2019-11-27T01:19:00,47.5,-130.6,,SAILDRONE,sd1036,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,4803914_001,,REGISTERED,Sailing Drone
+United States,2020-01-06T18:00:00,42.5,-130.5,,SAILDRONE,sd1031,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801556,,REGISTERED,Sailing Drone
+United States,2019-06-18T00:00:00,38.86,2.8,,SAILDRONE,sd1053,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801573,,REGISTERED,Sailing Drone
+United States,2019-10-14T00:00:00,8.02,-52.6,,SAILDRONE,sd1063,"AtlantOS, DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801583,,REGISTERED,Sailing Drone
+United States,2020-05-21T00:00:00,38.52,-132.9,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP33057362,,REGISTERED,Sailing Drone
+United States,2020-05-22T00:00:00,38.39,-129.4,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP-1215996821,,REGISTERED,Sailing Drone
+United States,2020-05-21T00:00:00,38.69,-131.28,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP657186488,,REGISTERED,Sailing Drone
+United States,2020-05-18T21:10:15,68.3,-168.05,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP-1598371938,,REGISTERED,Sailing Drone
+United States,2020-05-18T00:00:00,67.97,-168.23,,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP-1837218483,,REGISTERED,Sailing Drone
+United States,2017-07-17T00:00:00,53.76,-173.7,2018-06-06T18:00:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP408660046,,CLOSED,Sailing Drone
+United States,2017-07-17T00:00:00,53.76,-173.7,2018-06-01T22:00:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP1771608351,,CLOSED,Sailing Drone
+United States,2017-07-17T00:00:00,53.76,-173.7,2018-05-09T01:00:00,SAILDRONE,,"DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,TMP-192387978,,CLOSED,Sailing Drone
+United States,2019-10-11T00:00:00,9.1,-52,,SailBuoy,sd1061,"AtlantOS, DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801581,,REGISTERED,SailBuoy
+United States,2019-10-03T00:00:00,8.5,-51.4,,SailBuoy,SD1060,"AtlantOS, DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801580,,REGISTERED,SailBuoy
+United States,2019-10-21T00:00:00,8.03,-52.6,,SailBuoy,sd1064,"AtlantOS, DBCP, Unmanned Surface Vehicles",DBCP,Saildrone,1801584,,REGISTERED,SailBuoy

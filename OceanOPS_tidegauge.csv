@@ -1,0 +1,291 @@
+COUNTRY,DEPLOYMENT DATE,DEPLOYMENT LAT,DEPLOYMENT LON,LAST LOCATION DATE,MODEL,NAME,NETWORKS,OBSERVING NETWORKS,PROGRAM,REF,SERIAL NUMBER,STATUS,TYPE
+Australia,,-10.3167,150.45,,Tide Gauge,GLOSS Alotau,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_63,,INACTIVE,Tide Gauge
+Russian Federation,,54.95,20.2167,,Tide Gauge,GLOSS Kaliningrad,GLOSS,GLOSS,GLOSS RU,GLOSS_97,,INACTIVE,Tide Gauge
+Venezuela,,10.6167,-66.9333,,Tide Gauge,GLOSS La Guaira,GLOSS,GLOSS,GLOSS VE,GLOSS_328,,INACTIVE,Tide Gauge
+Somalia,,2.0167,45.3333,,Tide Gauge,GLOSS Mogadishu,GLOSS,GLOSS,GLOSS SO,GLOSS_7,,INACTIVE,Tide Gauge
+Australia,,-20.317,118.567,,Tide Gauge,GLOSS Port Hedland,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_51,,OPERATIONAL,Tide Gauge
+United States,,-4.2,152.1833,,Tide Gauge,GLOSS Rabaul,GLOSS,GLOSS,GLOSS US,GLOSS_65,,INACTIVE,Tide Gauge
+Brazil,,-22.9,-43.167,,Tide Gauge,GLOSS Rio de Janeiro - I.Fiscal,"AtlantOS, GLOSS",GLOSS,GLOSS BR,GLOSS_195,,OPERATIONAL,Tide Gauge
+France,,-38.7117,77.5383,,Tide Gauge,GLOSS Saint Paul Island,GLOSS,GLOSS,GLOSS FR,GLOSS_24,,INACTIVE,Tide Gauge
+South Africa,,-34.183,18.433,,Tide Gauge,GLOSS Simonstown,"AtlantOS, GLOSS",GLOSS,GLOSS ZA,GLOSS_268,,OPERATIONAL,Tide Gauge
+Morocco,,28.5,-11.05,,Tide Gauge,GLOSS Tan Tan,GLOSS,GLOSS,GLOSS MA,GLOSS_282,,INACTIVE,Tide Gauge
+Denmark,,70.483,-21.967,,Tide Gauge,GLOSS Ittoqqortoormiit/Scoresbysund,GLOSS,GLOSS,GLOSS DK,GLOSS_315,,OPERATIONAL,Tide Gauge
+United States,,26.717,-78.983,,Tide Gauge,GLOSS Settlement Point,"AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_211,,OPERATIONAL,Tide Gauge
+Seychelles,,-4.672,55.527,,Tide Gauge,GLOSS Pointe La Rue,GLOSS,GLOSS,GLOSS SC,GLOSS_339,,OPERATIONAL,Tide Gauge
+,,-9.383,119.217,,Tide Gauge,GLOSS Waikelo,GLOSS,GLOSS,Tide Gauges,GLOSS_346,,OPERATIONAL,Tide Gauge
+South Africa,,-46.867,37.867,,Tide Gauge,GLOSS Marion Is.,GLOSS,GLOSS,GLOSS ZA,GLOSS_20,,OPERATIONAL,Tide Gauge
+Australia,,-67.6,62.867,,Tide Gauge,GLOSS Mawson,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_22,,OPERATIONAL,Tide Gauge
+India,,11.683,92.767,,Tide Gauge,"GLOSS Port Blair, Andaman Is.",GLOSS,GLOSS,GLOSS INDIA,GLOSS_38,,OPERATIONAL,Tide Gauge
+Australia,,-10.417,105.667,,Tide Gauge,GLOSS Christmas Is.,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_47,,OPERATIONAL,Tide Gauge
+Australia,,-12.467,130.85,,Tide Gauge,GLOSS Darwin,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_62,,OPERATIONAL,Tide Gauge
+Japan,,39.017,141.75,,Tide Gauge,GLOSS Ofunato,GLOSS,GLOSS,GLOSS JP,GLOSS_87,,OPERATIONAL,Tide Gauge
+United States,,-21.167,-175.25,,Tide Gauge,GLOSS Tongatapu,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_125,,OPERATIONAL,Tide Gauge
+,,-8.933,-140.083,,Tide Gauge,"GLOSS Nuku Hiva, Marquesas Is.","GLOSS, Tropical Pacific Observing System",GLOSS,Tide Gauges,GLOSS_142,,OPERATIONAL,Tide Gauge
+United States,,1.983,-157.483,,Tide Gauge,"GLOSS Christmas Is., Line Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_146,,OPERATIONAL,Tide Gauge
+Mexico,,19.05,-104.333,,Tide Gauge,"GLOSS Manzanillo, Col.",GLOSS,GLOSS,GLOSS MX,GLOSS_163,,INACTIVE,Tide Gauge
+Costa Rica,,9.4,-84.167,,Tide Gauge,GLOSS Quepos,GLOSS,GLOSS,GLOSS CR,GLOSS_167,,OPERATIONAL,Tide Gauge
+Ecuador,,-0.433,-90.283,,Tide Gauge,"GLOSS Baltra, Galapagos Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS EC,GLOSS_169,,OPERATIONAL,Tide Gauge
+Colombia,,3.9,-77.1,,Tide Gauge,GLOSS Buenaventura,GLOSS,GLOSS,GLOSS CO,GLOSS_170,,OPERATIONAL,Tide Gauge
+Chile,,-41.29,-72.58,,Tide Gauge,GLOSS Puerto Montt,GLOSS,GLOSS,GLOSS CL,GLOSS_178,,OPERATIONAL,Tide Gauge
+Brazil,,-2.567,-44.367,,Tide Gauge,GLOSS Ponta da Madeira,GLOSS,GLOSS,GLOSS BR,GLOSS_200,,OPERATIONAL,Tide Gauge
+Canada,,56.55,-61.7,,Tide Gauge,GLOSS Nain,GLOSS,GLOSS,GLOSS CA,GLOSS_224,,OPERATIONAL,Tide Gauge
+Denmark,,64.167,-51.733,,Tide Gauge,"GLOSS Godthaab/Nuuk, Greenland",GLOSS,GLOSS,GLOSS DK,GLOSS_225,,OPERATIONAL,Tide Gauge
+Sweden,,57.41,11.48,,Tide Gauge,GLOSS Goteborg-Torshamnen,GLOSS,GLOSS,GLOSS SE,GLOSS_233,,OPERATIONAL,Tide Gauge
+Senegal,,14.66,-17.44,,Tide Gauge,GLOSS Dakar,GLOSS,GLOSS,GLOSS SN,GLOSS_253,,OPERATIONAL,Tide Gauge
+Congo,,-4.783,11.833,,Tide Gauge,GLOSS Pointe-Noire,"AtlantOS, GLOSS",GLOSS,GLOSS CG,GLOSS_261,,OPERATIONAL,Tide Gauge
+Mexico,,16.833,-99.917,,Tide Gauge,"GLOSS Acapulco, Gro.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS MX,GLOSS_267,,OPERATIONAL,Tide Gauge
+Russian Federation,,68.967,33.05,,Tide Gauge,GLOSS Murmansk,GLOSS,GLOSS,GLOSS RU,GLOSS_274,,OPERATIONAL,Tide Gauge
+United States,,32.033,-80.9,,Tide Gauge,"GLOSS Fort Pulaski, GA",GLOSS,GLOSS,GLOSS US,GLOSS_289,,OPERATIONAL,Tide Gauge
+Pakistan,,25.117,62.333,,Tide Gauge,GLOSS Gwader,GLOSS,GLOSS,GLOSS PK,GLOSS_295,,OPERATIONAL,Tide Gauge
+United States,,39.35,-74.417,,Tide Gauge,"GLOSS Atlantic City, NJ","AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_220,,OPERATIONAL,Tide Gauge
+United Kingdom,,-7.917,-14.417,,Tide Gauge,GLOSS Ascension,"AtlantOS, GLOSS",GLOSS,GLOSS GB,GLOSS_263,,OPERATIONAL,Tide Gauge
+Mexico,,22.8833,-109.9,,Tide Gauge,GLOSS Cabo San Lucas,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS MX,GLOSS_161,,INACTIVE,Tide Gauge
+Panama,,9.367,-79.883,,Tide Gauge,GLOSS Coco Solo,GLOSS,GLOSS,GLOSS PA,GLOSS_208,,OPERATIONAL,Tide Gauge
+United States,,23.7833,-76.1,,Tide Gauge,GLOSS Exuma,"AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_12,,INACTIVE,Tide Gauge
+Mexico,,28.8833,-118.3,,Tide Gauge,GLOSS Isla Guadalupe,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS MX,GLOSS_160,,INACTIVE,Tide Gauge
+Philippines,,6.0667,121,,Tide Gauge,"GLOSS Jolo, Sulu",GLOSS,GLOSS,GLOSS PHILIPPINES,GLOSS_70,,INACTIVE,Tide Gauge
+"Tanzania, United Republic Of",,-10.2833,40.1833,,Tide Gauge,GLOSS Mtwara,GLOSS,GLOSS,GLOSS TZ,GLOSS_9,,OPERATIONAL,Tide Gauge
+Russian Federation,,64.5,-173.1833,,Tide Gauge,GLOSS Providenya,GLOSS,GLOSS,GLOSS RU,GLOSS_309,,INACTIVE,Tide Gauge
+"Korea, Democratic People'S Republic Of",,39.1667,127.45,,Tide Gauge,GLOSS Won San,GLOSS,GLOSS,GLOSS KP,GLOSS_307,,INACTIVE,Tide Gauge
+Chile,,-62.29,-59.38,,Tide Gauge,GLOSS Capitan Prat Base (Antarctica),GLOSS,GLOSS,GLOSS CL,GLOSS_189,,OPERATIONAL,Tide Gauge
+,,25.732,-80.162,,Tide Gauge,GLOSS Virginia Keys,"AtlantOS, GLOSS",GLOSS,Tide Gauges,GLOSS_332,,OPERATIONAL,Tide Gauge
+,,-12.967,-38.517,,Tide Gauge,GLOSS Salvador,GLOSS,GLOSS,Tide Gauges,GLOSS_334,,OPERATIONAL,Tide Gauge
+Ghana,,4.883,-1.75,,Tide Gauge,GLOSS Takoradi,GLOSS,GLOSS,GLOSS GH,GLOSS_335,,INACTIVE,Tide Gauge
+,,-3.717,-38.467,,Tide Gauge,GLOSS Fortaleza,GLOSS,GLOSS,Tide Gauges,GLOSS_336,,OPERATIONAL,Tide Gauge
+India,,20.9,70.367,,Tide Gauge,GLOSS Veraval,GLOSS,GLOSS,GLOSS INDIA,GLOSS_31,,OPERATIONAL,Tide Gauge
+Japan,,32.44,129.52,,Tide Gauge,GLOSS Nagasaki,GLOSS,GLOSS,GLOSS JP,GLOSS_83,,OPERATIONAL,Tide Gauge
+Korea (Republic Of),,35.1,129.033,,Tide Gauge,GLOSS Pusan,GLOSS,GLOSS,GLOSS KR,GLOSS_84,,OPERATIONAL,Tide Gauge
+Japan,,34.55,139.49,,Tide Gauge,GLOSS Mera,GLOSS,GLOSS,GLOSS JP,GLOSS_86,,OPERATIONAL,Tide Gauge
+Japan,,24.18,153.58,,Tide Gauge,GLOSS Minami-tori-shima,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS JP,GLOSS_104,,OPERATIONAL,Tide Gauge
+Australia,,-8.383,179.217,,Tide Gauge,"GLOSS Funafuti, Ellice Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_121,,OPERATIONAL,Tide Gauge
+New Zealand,,-43.95,-176.55,,Tide Gauge,GLOSS Chatham Is.,GLOSS,GLOSS,GLOSS NZ,GLOSS_128,,OPERATIONAL,Tide Gauge
+,,-17.533,-149.567,,Tide Gauge,"GLOSS Papeete, Tahiti","GLOSS, Tropical Pacific Observing System",GLOSS,Tide Gauges,GLOSS_140,,OPERATIONAL,Tide Gauge
+Canada,,54.317,-130.333,,Tide Gauge,GLOSS Prince Rupert,GLOSS,GLOSS,GLOSS CA,GLOSS_155,,OPERATIONAL,Tide Gauge
+United Kingdom,,-54.25,-36.75,,Tide Gauge,GLOSS South Georgia,GLOSS,GLOSS,GLOSS GB,GLOSS_187,,OPERATIONAL,Tide Gauge
+Colombia,,10.4,-75.55,,Tide Gauge,GLOSS Cartagena,GLOSS,GLOSS,GLOSS CO,GLOSS_207,,OPERATIONAL,Tide Gauge
+Cuba,,23.1,-82.467,,Tide Gauge,GLOSS Siboney,"AtlantOS, GLOSS",GLOSS,GLOSS CU,GLOSS_215,,OPERATIONAL,Tide Gauge
+Spain,,43.213,-8.232,,Tide Gauge,GLOSS La Coruna,GLOSS,GLOSS,GLOSS ES,GLOSS_243,,OPERATIONAL,Tide Gauge
+United Kingdom,,-15.967,-5.7,,Tide Gauge,GLOSS St. Helena,GLOSS,GLOSS,GLOSS GB,GLOSS_264,,OPERATIONAL,Tide Gauge
+Australia,,-66.283,110.533,,Tide Gauge,GLOSS Casey,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_278,,OPERATIONAL,Tide Gauge
+Djibouti,,11.6,43.15,,Tide Gauge,GLOSS Djibouti,GLOSS,GLOSS,GLOSS DJ,GLOSS_2,,OPERATIONAL,Tide Gauge
+South Africa,,-33.57,25.37,,Tide Gauge,GLOSS Port Elizabeth,GLOSS,GLOSS,GLOSS ZA,GLOSS_76,,OPERATIONAL,Tide Gauge
+Australia,,1.363,172.93,,Tide Gauge,"GLOSS Tarawa, Gilbert Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_113,,OPERATIONAL,Tide Gauge
+United States,,41.5,-71.333,,Tide Gauge,"GLOSS Newport, RI","AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_290,,OPERATIONAL,Tide Gauge
+United States,,1.1,154.783,,Tide Gauge,"GLOSS Kapingamarangi, Caroline Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_117,,OPERATIONAL,Tide Gauge
+Nigeria,,6.4205,3.4073,,Tide Gauge,GLOSS Lagos,GLOSS,GLOSS,GLOSS NG,GLOSS_259,,INACTIVE,Tide Gauge
+India,,13.1,80.3,,Tide Gauge,GLOSS Madras,GLOSS,GLOSS,GLOSS INDIA,GLOSS_34,,OPERATIONAL,Tide Gauge
+United States,,28.217,-177.367,,Tide Gauge,"GLOSS Midway Is, Hawaiian Is.",GLOSS,GLOSS,GLOSS US,GLOSS_106,,OPERATIONAL,Tide Gauge
+Russian Federation,,-66.55,93.0167,,Tide Gauge,GLOSS Mirny (Antarctica),GLOSS,GLOSS,GLOSS RU,GLOSS_25,,INACTIVE,Tide Gauge
+France,,-20.933,55.3,,Tide Gauge,"GLOSS Pte des Galets, Reunion Is",GLOSS,GLOSS,GLOSS FR,GLOSS_17,,OPERATIONAL,Tide Gauge
+Mauritius,,-19.683,63.417,,Tide Gauge,"GLOSS Rodrigues, Port Mathurin",GLOSS,GLOSS,GLOSS MU,GLOSS_19,,OPERATIONAL,Tide Gauge
+,,59.317,18.083,,Tide Gauge,GLOSS Stockholm,GLOSS,GLOSS,Tide Gauges,GLOSS_341,,OPERATIONAL,Tide Gauge
+Egypt,,29.9333,32.5667,,Tide Gauge,GLOSS Suez (Port Taufig),GLOSS,GLOSS,GLOSS EG,GLOSS_1,,INACTIVE,Tide Gauge
+Vanuatu,,-17.767,168.3,,Tide Gauge,GLOSS Vanuatu,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS VU,GLOSS_348,,OPERATIONAL,Tide Gauge
+United States,,19.283,166.617,,Tide Gauge,"GLOSS Wake Is., Marshall Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_105,,OPERATIONAL,Tide Gauge
+,,14.583,-61.05,,Tide Gauge,GLOSS Fort-de-France,GLOSS,GLOSS,Tide Gauges,GLOSS_338,,OPERATIONAL,Tide Gauge
+Brazil,,-28.23,-48.65,,Tide Gauge,GLOSS Porto De Imbituba,GLOSS,GLOSS,GLOSS BR,GLOSS_351,,OPERATIONAL,Tide Gauge
+New Zealand,,-77.51,166.46,,Tide Gauge,GLOSS Scott Base,GLOSS,GLOSS,GLOSS NZ,GLOSS_134,,OPERATIONAL,Tide Gauge
+Japan,,34.9,132.067,,Tide Gauge,GLOSS Hamada,GLOSS,GLOSS,GLOSS JP,GLOSS_326,,OPERATIONAL,Tide Gauge
+Japan,,44.017,144.283,,Tide Gauge,GLOSS Abashiri,GLOSS,GLOSS,GLOSS JP,GLOSS_327,,OPERATIONAL,Tide Gauge
+United States,,-7.283,72.4,,Tide Gauge,GLOSS Diego Garcia Is.,GLOSS,GLOSS,GLOSS US,GLOSS_26,,OPERATIONAL,Tide Gauge
+Sri Lanka,,6.933,79.85,,Tide Gauge,GLOSS Colombo,GLOSS,GLOSS,GLOSS LK,GLOSS_33,,OPERATIONAL,Tide Gauge
+Bangladesh,,22.333,91.833,,Tide Gauge,GLOSS Chittagong,GLOSS,GLOSS,GLOSS BD,GLOSS_36,,OPERATIONAL,Tide Gauge
+Australia,,-18,122.217,,Tide Gauge,GLOSS Broome,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_40,,OPERATIONAL,Tide Gauge
+Thailand,,7.833,98.433,,Tide Gauge,GLOSS Ko Taphao Noi,GLOSS,GLOSS,GLOSS THAILAND,GLOSS_42,,OPERATIONAL,Tide Gauge
+Australia,,-38.343,141.613,,Tide Gauge,GLOSS Portland,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_55,,OPERATIONAL,Tide Gauge
+Australia,,-19.25,146.833,,Tide Gauge,GLOSS Townsville,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_60,,OPERATIONAL,Tide Gauge
+China,,21.583,111.833,,Tide Gauge,GLOSS Zhapo,GLOSS,GLOSS,GLOSS CN,GLOSS_78,,OPERATIONAL,Tide Gauge
+Japan,,33.49,135.46,,Tide Gauge,GLOSS Kushimoto,GLOSS,GLOSS,GLOSS JP,GLOSS_85,,OPERATIONAL,Tide Gauge
+Russian Federation,,52.983,158.65,,Tide Gauge,GLOSS Petropavlovsk-Kamchatsky,GLOSS,GLOSS,GLOSS RU,GLOSS_93,,OPERATIONAL,Tide Gauge
+United States,,55.333,-160.5,,Tide Gauge,"GLOSS Sand Point, AK",GLOSS,GLOSS,GLOSS US,GLOSS_100,,OPERATIONAL,Tide Gauge
+United States,,-0.533,166.9,,Tide Gauge,"GLOSS Nauru, Gilbert Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_114,,OPERATIONAL,Tide Gauge
+Panama,,8.967,-79.6,,Tide Gauge,GLOSS Balboa,GLOSS,GLOSS,GLOSS PA,GLOSS_168,,OPERATIONAL,Tide Gauge
+Argentina,,-54.817,-68.3,,Tide Gauge,GLOSS Ushuaia,GLOSS,GLOSS,GLOSS AR,GLOSS_181,,OPERATIONAL,Tide Gauge
+France,,43.3,5.35,,Tide Gauge,GLOSS Marseille,GLOSS,GLOSS,GLOSS FR,GLOSS_205,,OPERATIONAL,Tide Gauge
+Denmark,,65.5,-37,,Tide Gauge,"GLOSS Ammassalik, Greenland","AtlantOS, GLOSS",GLOSS,GLOSS DK,GLOSS_228,,INACTIVE,Tide Gauge
+Norway,,64.867,11.25,,Tide Gauge,GLOSS Rorvik,GLOSS,GLOSS,GLOSS NO,GLOSS_234,,OPERATIONAL,Tide Gauge
+Denmark,,62.017,-6.767,,Tide Gauge,"GLOSS Torshavn, Faroe Islands.","AtlantOS, GLOSS",GLOSS,GLOSS DK,GLOSS_237,,OPERATIONAL,Tide Gauge
+Ireland,,55.367,-7.333,,Tide Gauge,GLOSS Malin Head,GLOSS,GLOSS,GLOSS IE,GLOSS_239,,OPERATIONAL,Tide Gauge
+Portugal,,37.442,-25.403,,Tide Gauge,"GLOSS Ponta Delgado, Azores","AtlantOS, GLOSS",GLOSS,GLOSS PT,GLOSS_245,,OPERATIONAL,Tide Gauge
+Spain,,28.133,-15.417,,Tide Gauge,"GLOSS Las Palmas, Canary Is.","AtlantOS, GLOSS",GLOSS,GLOSS ES,GLOSS_251,,OPERATIONAL,Tide Gauge
+United Kingdom,,-37.05,-12.3,,Tide Gauge,"GLOSS Edinburgh, Tristan da Cunha","AtlantOS, GLOSS",GLOSS,GLOSS GB,GLOSS_266,,INACTIVE,Tide Gauge
+Australia,,-68.45,77.967,,Tide Gauge,GLOSS Davis,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_277,,OPERATIONAL,Tide Gauge
+Germany,,53.867,8.717,,Tide Gauge,"GLOSS Cuxhaven, Steubenhoft","AtlantOS, GLOSS",GLOSS,GLOSS DE,GLOSS_284,,OPERATIONAL,Tide Gauge
+United States,,30.4,-87.217,,Tide Gauge,"GLOSS Pensacola, FL",GLOSS,GLOSS,GLOSS US,GLOSS_288,,OPERATIONAL,Tide Gauge
+Malaysia,,5.267,103.183,,Tide Gauge,GLOSS Chendering/Kuala Terengganu,GLOSS,GLOSS,GLOSS MALAYSIA,GLOSS_293,,OPERATIONAL,Tide Gauge
+Canada,,49.15,-125.917,,Tide Gauge,GLOSS Tofino,GLOSS,GLOSS,GLOSS CA,GLOSS_156,,OPERATIONAL,Tide Gauge
+Iran (Islamic Republic Of),,25.3,60.6,,Tide Gauge,GLOSS Chabahar,GLOSS,GLOSS,GLOSS IR,GLOSS_337,,OPERATIONAL,Tide Gauge
+Argentina,,-63.3,-56.9167,,Tide Gauge,GLOSS Bahia Esperanza,GLOSS,GLOSS,GLOSS AR,GLOSS_185,,OPERATIONAL,Tide Gauge
+Australia,,-12.1,96.9,,Tide Gauge,GLOSS Cocos Is. (Keeling),GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_46,,OPERATIONAL,Tide Gauge
+Papua New Guinea,,-9.05,143.2,,Tide Gauge,GLOSS Daru,GLOSS,GLOSS,GLOSS PG,GLOSS_272,,INACTIVE,Tide Gauge
+Brazil,,-3.8333,-32.4,,Tide Gauge,GLOSS Fernando de Noronha,GLOSS,GLOSS,GLOSS BR,GLOSS_198,,INACTIVE,Tide Gauge
+Somalia,,10.45,51.25,,Tide Gauge,GLOSS Hafun (Dante),GLOSS,GLOSS,GLOSS SO,GLOSS_6,,INACTIVE,Tide Gauge
+United Kingdom,,-51.75,-57.933,,Tide Gauge,"GLOSS Stanley, Falklands/Malvinas","AtlantOS, GLOSS",GLOSS,GLOSS GB,GLOSS_305,,OPERATIONAL,Tide Gauge
+Russian Federation,,71.667,128.75,,Tide Gauge,GLOSS Tiksi,GLOSS,GLOSS,GLOSS RU,GLOSS_313,,OPERATIONAL,Tide Gauge
+Ireland,,51.65,-9.903,,Tide Gauge,GLOSS Castletownbere,"AtlantOS, GLOSS",GLOSS,GLOSS IE,GLOSS_330,,INACTIVE,Tide Gauge
+India,,8.283,73.05,,Tide Gauge,"GLOSS Minicoy, Laccadive Is.",GLOSS,GLOSS,GLOSS INDIA,GLOSS_29,,INACTIVE,Tide Gauge
+Australia,,-24.767,152.38,,Tide Gauge,GLOSS Burnett Heads (Bundaberg),GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_59,,OPERATIONAL,Tide Gauge
+Indonesia,,1.433,125.2,,Tide Gauge,GLOSS Manado (Bitung),GLOSS,GLOSS,GLOSS INDONESIA,GLOSS_69,,OPERATIONAL,Tide Gauge
+New Zealand,,-41.17,174.47,,Tide Gauge,GLOSS Wellington,GLOSS,GLOSS,GLOSS NZ,GLOSS_101,,OPERATIONAL,Tide Gauge
+United States,,8.733,167.733,,Tide Gauge,GLOSS Kwajalein,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_111,,OPERATIONAL,Tide Gauge
+United States,,6.59,158.15,,Tide Gauge,"GLOSS Pohnpei, Caroline Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_115,,OPERATIONAL,Tide Gauge
+Australia,,-54.5,158.933,,Tide Gauge,GLOSS Macquarie Is.,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_130,,OPERATIONAL,Tide Gauge
+,,-23.133,-134.95,,Tide Gauge,"GLOSS Rikitea, Gambier","GLOSS, Tropical Pacific Observing System",GLOSS,Tide Gauges,GLOSS_138,,OPERATIONAL,Tide Gauge
+United States,,13.433,144.65,,Tide Gauge,"GLOSS Apra Hbr, Guam, Marianas","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_149,,OPERATIONAL,Tide Gauge
+Chile,,-26.17,-80.07,,Tide Gauge,GLOSS San Felix,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS CL,GLOSS_177,,OPERATIONAL,Tide Gauge
+United Kingdom,,-65.25,-64.267,,Tide Gauge,"GLOSS Faraday, Argentine Islands",GLOSS,GLOSS,GLOSS GB,GLOSS_188,,OPERATIONAL,Tide Gauge
+Mexico,,19.2,-96.133,,Tide Gauge,"GLOSS Veracruz, Ver.",GLOSS,GLOSS,GLOSS MX,GLOSS_212,,OPERATIONAL,Tide Gauge
+United States,,32.367,-64.7,,Tide Gauge,"GLOSS Bermuda, St. Georges Is.","AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_221,,OPERATIONAL,Tide Gauge
+United Kingdom,,58.2,-6.383,,Tide Gauge,GLOSS Stornoway,"AtlantOS, GLOSS",GLOSS,GLOSS GB,GLOSS_238,,OPERATIONAL,Tide Gauge
+Indonesia,,-7.567,108.983,,Tide Gauge,GLOSS Cilacap,GLOSS,GLOSS,GLOSS INDONESIA,GLOSS_291,,OPERATIONAL,Tide Gauge
+South Africa,,-29.883,31.033,,Tide Gauge,GLOSS Durban,GLOSS,GLOSS,GLOSS ZA,GLOSS_13,,OPERATIONAL,Tide Gauge
+New Zealand,,-36.51,174.46,,Tide Gauge,GLOSS Auckland-Waitemata Hbr.,GLOSS,GLOSS,GLOSS NZ,GLOSS_127,,OPERATIONAL,Tide Gauge
+United States,,70.4,-148.527,,Tide Gauge,"GLOSS Prudhoe Bay, AK",GLOSS,GLOSS,GLOSS US,GLOSS_151,,OPERATIONAL,Tide Gauge
+Guinea,,9.5167,-13.7167,,Tide Gauge,GLOSS Conakry,GLOSS,GLOSS,GLOSS GN,GLOSS_255,,INACTIVE,Tide Gauge
+Madagascar,,-25.0167,47,,Tide Gauge,GLOSS Fort Dauphin (Taolanaro),GLOSS,GLOSS,GLOSS MG,GLOSS_271,,INACTIVE,Tide Gauge
+United States,,7.1,171.367,,Tide Gauge,GLOSS Majuro,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_112,,OPERATIONAL,Tide Gauge
+Brazil,,-22.385,-41.77,,Tide Gauge,GLOSS Porto De Macae,"AtlantOS, GLOSS",GLOSS,GLOSS BR,GLOSS_352,,INACTIVE,Tide Gauge
+Brazil,,-32.1,-52.1833,,Tide Gauge,GLOSS Porto de Rio Grande,GLOSS,GLOSS,GLOSS BR,GLOSS_193,,INACTIVE,Tide Gauge
+Brazil,,0.9167,-29.35,,Tide Gauge,GLOSS St Peter & St Paul Rocks,"AtlantOS, GLOSS",GLOSS,GLOSS BR,GLOSS_199,,INACTIVE,Tide Gauge
+France,,0.3483,6.7367,,Tide Gauge,GLOSS Sao Tome,"AtlantOS, GLOSS",GLOSS,GLOSS FR,GLOSS_260,,INACTIVE,Tide Gauge
+Mexico,,18.7333,-111.0167,,Tide Gauge,GLOSS Socorro Is.,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS MX,GLOSS_162,,INACTIVE,Tide Gauge
+Russian Federation,,44.0167,145.8667,,Tide Gauge,GLOSS Yuzhno Kurilsk,GLOSS,GLOSS,GLOSS RU,GLOSS_90,,INACTIVE,Tide Gauge
+United States,,-0.7,73.167,,Tide Gauge,GLOSS Gan,GLOSS,GLOSS,GLOSS US,GLOSS_27,,OPERATIONAL,Tide Gauge
+Thailand,,11.783,99.817,,Tide Gauge,GLOSS Ko Lak,GLOSS,GLOSS,GLOSS THAILAND,GLOSS_39,,OPERATIONAL,Tide Gauge
+Indonesia,,-1,100.367,,Tide Gauge,GLOSS Padang (Telu Bayuk),GLOSS,GLOSS,GLOSS INDONESIA,GLOSS_45,,OPERATIONAL,Tide Gauge
+Portugal,,16.755,-22.983,,Tide Gauge,GLOSS Palmeira,"AtlantOS, GLOSS",GLOSS,GLOSS PT,GLOSS_329,,OPERATIONAL,Tide Gauge
+Papua New Guinea,,-2.033,147.367,,Tide Gauge,GLOSS Lombrum (Manus),"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS PG,GLOSS_331,,OPERATIONAL,Tide Gauge
+,,60.717,-46.033,,Tide Gauge,GLOSS Qaqortoq,GLOSS,GLOSS,Tide Gauges,GLOSS_344,,OPERATIONAL,Tide Gauge
+Australia,,-32.05,115.733,,Tide Gauge,GLOSS Fremantle,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_53,,OPERATIONAL,Tide Gauge
+Australia,,-33.85,151.233,,Tide Gauge,"GLOSS Sydney, Fort Denison",GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_57,,OPERATIONAL,Tide Gauge
+Philippines,,7.083,125.633,,Tide Gauge,"GLOSS Davao, Davao Gulf",GLOSS,GLOSS,GLOSS PHILIPPINES,GLOSS_71,,OPERATIONAL,Tide Gauge
+,,-22.3,166.433,,Tide Gauge,"GLOSS Noumea, New Caledonia",GLOSS,GLOSS,Tide Gauges,GLOSS_123,,OPERATIONAL,Tide Gauge
+Chile,,-27.15,-109.45,,Tide Gauge,GLOSS Pascua (Easter) Is.,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS CL,GLOSS_137,,OPERATIONAL,Tide Gauge
+United States,,57.05,-135.333,,Tide Gauge,"GLOSS Sitka, AK",GLOSS,GLOSS,GLOSS US,GLOSS_154,,OPERATIONAL,Tide Gauge
+Canada,,44.667,-63.583,,Tide Gauge,GLOSS Halifax,GLOSS,GLOSS,GLOSS CA,GLOSS_222,,OPERATIONAL,Tide Gauge
+United Kingdom,,36.148,-5.365,,Tide Gauge,GLOSS Gibraltar,GLOSS,GLOSS,GLOSS GB,GLOSS_248,,OPERATIONAL,Tide Gauge
+Portugal,,32.386,-16.547,,Tide Gauge,GLOSS Funchal (Madeira),"AtlantOS, GLOSS",GLOSS,GLOSS PT,GLOSS_250,,OPERATIONAL,Tide Gauge
+United States,,19.733,-155.067,,Tide Gauge,"GLOSS Hilo, Hawaiian Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_287,,OPERATIONAL,Tide Gauge
+Australia,,-42.55,147.933,,Tide Gauge,GLOSS Spring Bay,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_56,,OPERATIONAL,Tide Gauge
+Viet Nam,,13.767,109.217,,Tide Gauge,GLOSS Qui Nhon,GLOSS,GLOSS,GLOSS VIETNAM,GLOSS_75,,OPERATIONAL,Tide Gauge
+United States,,18.467,-66.117,,Tide Gauge,"GLOSS San Juan, Puerto Rico","AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_206,,OPERATIONAL,Tide Gauge
+Argentina,,-38.05,-57.55,,Tide Gauge,GLOSS Mar del Plata,GLOSS,GLOSS,GLOSS AR,GLOSS_192,,OPERATIONAL,Tide Gauge
+Australia,,-29.067,167.95,,Tide Gauge,GLOSS Norfolk Is.,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_124,,OPERATIONAL,Tide Gauge
+Madagascar,,-13.4,48.283,,Tide Gauge,GLOSS Nosy-Be,GLOSS,GLOSS,GLOSS MG,GLOSS_15,,INACTIVE,Tide Gauge
+United States,,-14.283,-170.683,,Tide Gauge,"GLOSS Pago Pago, American Samoa","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_144,,OPERATIONAL,Tide Gauge
+Mozambique,,-12.9667,40.4833,,Tide Gauge,GLOSS Pemba,GLOSS,GLOSS,GLOSS MZ,GLOSS_11,,INACTIVE,Tide Gauge
+United States,,15.233,145.733,,Tide Gauge,GLOSS Saipan,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_118,,OPERATIONAL,Tide Gauge
+United States,,44.38,-124.03,,Tide Gauge,"GLOSS South Beach, OR",GLOSS,GLOSS,GLOSS US,GLOSS_157,,OPERATIONAL,Tide Gauge
+Japan,,-69,39.6,,Tide Gauge,GLOSS Syowa,GLOSS,GLOSS,GLOSS JP,GLOSS_95,,OPERATIONAL,Tide Gauge
+Australia,,-10.6,141.917,,Tide Gauge,GLOSS Booby Is.,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_61,,OPERATIONAL,Tide Gauge
+United States,,21.3,-157.867,,Tide Gauge,"GLOSS Honolulu, Hawaiian Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_108,,OPERATIONAL,Tide Gauge
+Colombia,,1.833,-78.733,,Tide Gauge,GLOSS Tumaco,GLOSS,GLOSS,GLOSS CO,GLOSS_171,,OPERATIONAL,Tide Gauge
+Uruguay,,-34.9,-56.25,,Tide Gauge,GLOSS Montevideo,"AtlantOS, GLOSS",GLOSS,GLOSS UY,GLOSS_300,,OPERATIONAL,Tide Gauge
+Australia,,-32.15,133.64,,Tide Gauge,GLOSS Thevenard,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_308,,OPERATIONAL,Tide Gauge
+Norway,,58,7.567,,Tide Gauge,GLOSS Tregde,"AtlantOS, GLOSS",GLOSS,GLOSS NO,GLOSS_321,,OPERATIONAL,Tide Gauge
+Japan,,36.46,137.14,,Tide Gauge,GLOSS Toyama,GLOSS,GLOSS,GLOSS JP,GLOSS_325,,OPERATIONAL,Tide Gauge
+,,-67.572,-68.128,,Tide Gauge,GLOSS Rothera,GLOSS,GLOSS,Tide Gauges,GLOSS_342,,OPERATIONAL,Tide Gauge
+,,78.933,11.95,,Tide Gauge,GLOSS Ny Alesund,GLOSS,GLOSS,Tide Gauges,GLOSS_345,,OPERATIONAL,Tide Gauge
+Egypt,,31.217,29.917,,Tide Gauge,GLOSS Alexandria,GLOSS,GLOSS,GLOSS EG,GLOSS_349,,OPERATIONAL,Tide Gauge
+Cameroon,,4.005,9.125,,Tide Gauge,GLOSS Port Sonara,GLOSS,GLOSS,GLOSS CM,GLOSS_350,,INACTIVE,Tide Gauge
+Yemen,,12.783,44.983,,Tide Gauge,GLOSS Aden,GLOSS,GLOSS,GLOSS YE,GLOSS_3,,INACTIVE,Tide Gauge
+United States,,4.167,73.5,,Tide Gauge,GLOSS Male,GLOSS,GLOSS,GLOSS US,GLOSS_28,,OPERATIONAL,Tide Gauge
+Pakistan,,24.8,66.967,,Tide Gauge,"GLOSS Karachi, Manoro Island",GLOSS,GLOSS,GLOSS PK,GLOSS_30,,OPERATIONAL,Tide Gauge
+Myanmar,,20.15,92.9,,Tide Gauge,GLOSS Akyab (Sittwe),GLOSS,GLOSS,GLOSS MM,GLOSS_37,,OPERATIONAL,Tide Gauge
+Malaysia,,4.233,100.617,,Tide Gauge,GLOSS Pengkalan TLDM Lumut,GLOSS,GLOSS,GLOSS MALAYSIA,GLOSS_43,,OPERATIONAL,Tide Gauge
+Australia,,-24.9,113.65,,Tide Gauge,GLOSS Carnarvon,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_52,,OPERATIONAL,Tide Gauge
+United States,,64.5,-165.417,,Tide Gauge,GLOSS Nome,GLOSS,GLOSS,GLOSS US,GLOSS_74,,OPERATIONAL,Tide Gauge
+China,,22.283,114.217,,Tide Gauge,GLOSS Quarry Bay,GLOSS,GLOSS,GLOSS CN,GLOSS_77,,OPERATIONAL,Tide Gauge
+China,,38.867,121.683,,Tide Gauge,GLOSS Laohutan (Dalian),GLOSS,GLOSS,GLOSS CN,GLOSS_79,,OPERATIONAL,Tide Gauge
+Japan,,26.217,127.667,,Tide Gauge,GLOSS Naha,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS JP,GLOSS_81,,OPERATIONAL,Tide Gauge
+France,,-12.783,45.25,,Tide Gauge,GLOSS Dzaoudzi (Mayotte),GLOSS,GLOSS,GLOSS FR,GLOSS_96,,OPERATIONAL,Tide Gauge
+Japan,,27.083,142.183,,Tide Gauge,GLOSS Chichijima,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS JP,GLOSS_103,,OPERATIONAL,Tide Gauge
+Australia,,-18.133,178.433,,Tide Gauge,GLOSS Suva,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_122,,OPERATIONAL,Tide Gauge
+Myanmar,,16.483,97.617,,Tide Gauge,GLOSS Moulmein (Mawlamyine),GLOSS,GLOSS,GLOSS MM,GLOSS_141,,OPERATIONAL,Tide Gauge
+Mexico,,15.65,-96.5,,Tide Gauge,GLOSS Puerto Angel,GLOSS,GLOSS,GLOSS MX,GLOSS_164,,OPERATIONAL,Tide Gauge
+Chile,,-23.39,-70.24,,Tide Gauge,GLOSS Antofagasta,GLOSS,GLOSS,GLOSS CL,GLOSS_174,,OPERATIONAL,Tide Gauge
+Chile,,-33.37,-78.5,,Tide Gauge,GLOSS Juan Fernandez Island,GLOSS,GLOSS,GLOSS CL,GLOSS_176,,OPERATIONAL,Tide Gauge
+Haiti,,18.567,-72.35,,Tide Gauge,GLOSS Port-au-Prince/Les Cayes,GLOSS,GLOSS,GLOSS HT,GLOSS_209,,OPERATIONAL,Tide Gauge
+Mexico,,21.3,-89.65,,Tide Gauge,"GLOSS Progreso, Yuc.",GLOSS,GLOSS,GLOSS MX,GLOSS_213,,OPERATIONAL,Tide Gauge
+Cuba,,21.9,-84.9,,Tide Gauge,GLOSS Cabo San Antonio,GLOSS,GLOSS,GLOSS CU,GLOSS_214,,OPERATIONAL,Tide Gauge
+United States,,24.55,-81.8,,Tide Gauge,"GLOSS Key West, FL",GLOSS,GLOSS,GLOSS US,GLOSS_216,,OPERATIONAL,Tide Gauge
+United States,,29.317,-94.8,,Tide Gauge,"GLOSS Galveston (Pier 21), TX",GLOSS,GLOSS,GLOSS US,GLOSS_217,,OPERATIONAL,Tide Gauge
+Iceland,,64.15,-21.933,,Tide Gauge,GLOSS Reykjavik,GLOSS,GLOSS,GLOSS IS,GLOSS_229,,OPERATIONAL,Tide Gauge
+United Kingdom,,60.15,-1.133,,Tide Gauge,GLOSS Lerwick,GLOSS,GLOSS,GLOSS GB,GLOSS_236,,OPERATIONAL,Tide Gauge
+Portugal,,38.417,-9.25,,Tide Gauge,GLOSS Cascais,"AtlantOS, GLOSS",GLOSS,GLOSS PT,GLOSS_246,,OPERATIONAL,Tide Gauge
+Brazil,,-25.017,-47.933,,Tide Gauge,GLOSS Cananeia,GLOSS,GLOSS,GLOSS BR,GLOSS_194,,OPERATIONAL,Tide Gauge
+United States,,7.45,151.85,,Tide Gauge,"GLOSS Chuuk Atoll, Caroline Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_116,,INACTIVE,Tide Gauge
+France,,10.2833,-109.2167,,Tide Gauge,GLOSS Clipperton Is.,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS FR,GLOSS_165,,INACTIVE,Tide Gauge
+United States,,23.867,-166.283,,Tide Gauge,"GLOSS French Frigate Shoals, H","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_107,,OPERATIONAL,Tide Gauge
+United States,,-2.49,-171.43,,Tide Gauge,"GLOSS Kanton Is., Phoenix Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_145,,OPERATIONAL,Tide Gauge
+Angola,,-12.3333,13.5667,,Tide Gauge,GLOSS Lobito,"AtlantOS, GLOSS",GLOSS,GLOSS AO,GLOSS_262,,INACTIVE,Tide Gauge
+Argentina,,-47.75,-65.917,,Tide Gauge,GLOSS Puerto Deseado,GLOSS,GLOSS,GLOSS AR,GLOSS_190,,OPERATIONAL,Tide Gauge
+Brazil,,-20.5,-29.3,,Tide Gauge,GLOSS Trindade Is.,"AtlantOS, GLOSS",GLOSS,GLOSS BR,GLOSS_265,,INACTIVE,Tide Gauge
+Russian Federation,,73.367,80.65,,Tide Gauge,GLOSS Dikson,GLOSS,GLOSS,GLOSS RU,GLOSS_312,,INACTIVE,Tide Gauge
+,,45.65,13.75,,Tide Gauge,GLOSS Trieste,GLOSS,GLOSS,Tide Gauges,GLOSS_340,,OPERATIONAL,Tide Gauge
+,,76.55,-68.867,,Tide Gauge,GLOSS Pituffik/Thule,GLOSS,GLOSS,Tide Gauges,GLOSS_343,,OPERATIONAL,Tide Gauge
+,,5.833,95.333,,Tide Gauge,GLOSS Sabang,GLOSS,GLOSS,Tide Gauges,GLOSS_347,,OPERATIONAL,Tide Gauge
+Oman,,17,54,,Tide Gauge,GLOSS Salalah,GLOSS,GLOSS,GLOSS OM,GLOSS_4,,OPERATIONAL,Tide Gauge
+Mauritius,,-20.15,57.5,,Tide Gauge,GLOSS Port Louis Harbour,GLOSS,GLOSS,GLOSS MU,GLOSS_18,,OPERATIONAL,Tide Gauge
+France,,-49.345,70.22,,Tide Gauge,GLOSS Kerguelen Island,GLOSS,GLOSS,GLOSS FR,GLOSS_23,,OPERATIONAL,Tide Gauge
+India,,9.967,76.267,,Tide Gauge,GLOSS Cochin,GLOSS,GLOSS,GLOSS INDIA,GLOSS_32,,OPERATIONAL,Tide Gauge
+Singapore,,1.467,103.833,,Tide Gauge,GLOSS Keppel Harbour,GLOSS,GLOSS,GLOSS SINGAPORE,GLOSS_44,,OPERATIONAL,Tide Gauge
+Australia,,-33.867,121.9,,Tide Gauge,GLOSS Esperance,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_54,,OPERATIONAL,Tide Gauge
+Australia,,-27.367,153.167,,Tide Gauge,GLOSS Brisbane (West Inner Bar),"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_58,,OPERATIONAL,Tide Gauge
+Philippines,,13.15,123.75,,Tide Gauge,"GLOSS Legaspi, Albay",GLOSS,GLOSS,GLOSS PHILIPPINES,GLOSS_72,,OPERATIONAL,Tide Gauge
+Japan,,31.35,131.25,,Tide Gauge,GLOSS Aburatsu,GLOSS,GLOSS,GLOSS JP,GLOSS_82,,OPERATIONAL,Tide Gauge
+Russian Federation,,44.1,39.067,,Tide Gauge,"GLOSS Port Tuapse, Black Sea",GLOSS,GLOSS,GLOSS RU,GLOSS_98,,OPERATIONAL,Tide Gauge
+United States,,16.733,-169.533,,Tide Gauge,"GLOSS Johnston Is., Hawaiian Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_109,,OPERATIONAL,Tide Gauge
+United States,,9.517,138.133,,Tide Gauge,"GLOSS Yap, Caroline Is.","GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_119,,OPERATIONAL,Tide Gauge
+France,,-66.662,140.01,,Tide Gauge,GLOSS Dumont d'Urville,GLOSS,GLOSS,GLOSS FR,GLOSS_131,,OPERATIONAL,Tide Gauge
+United States,,-8.59,-158.067,,Tide Gauge,GLOSS Penrhyn,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_143,,OPERATIONAL,Tide Gauge
+United States,,32.867,-117.267,,Tide Gauge,GLOSS La Jolla (Scripps Pier) CA,GLOSS,GLOSS,GLOSS US,GLOSS_159,,OPERATIONAL,Tide Gauge
+Trinidad And Tobago,,10.65,-61.517,,Tide Gauge,GLOSS Port of Spain,GLOSS,GLOSS,GLOSS TT,GLOSS_203,,OPERATIONAL,Tide Gauge
+Russian Federation,,78.067,14.25,,Tide Gauge,GLOSS Barentsburg (Spitsbergen),GLOSS,GLOSS,GLOSS RU,GLOSS_231,,OPERATIONAL,Tide Gauge
+Cuba,,21.117,-76.133,,Tide Gauge,GLOSS Gibara,GLOSS,GLOSS,GLOSS CU,GLOSS_276,,OPERATIONAL,Tide Gauge
+India,,15.417,73.8,,Tide Gauge,GLOSS Marmagao,GLOSS,GLOSS,GLOSS INDIA,GLOSS_281,,OPERATIONAL,Tide Gauge
+Kenya,,-4.05,39.667,,Tide Gauge,GLOSS Mombasa,GLOSS,GLOSS,GLOSS KE,GLOSS_8,,OPERATIONAL,Tide Gauge
+Norway,,70.333,31.1,,Tide Gauge,GLOSS Vardo,GLOSS,GLOSS,GLOSS NO,GLOSS_323,,OPERATIONAL,Tide Gauge
+India,,17.683,83.283,,Tide Gauge,GLOSS Vishakhapatnam,GLOSS,GLOSS,GLOSS INDIA,GLOSS_35,,OPERATIONAL,Tide Gauge
+Chile,,-33.033,-71.617,,Tide Gauge,GLOSS Valparaiso,GLOSS,GLOSS,GLOSS CL,GLOSS_175,,OPERATIONAL,Tide Gauge
+United Kingdom,,50.1,-5.55,,Tide Gauge,GLOSS Newlyn,GLOSS,GLOSS,GLOSS GB,GLOSS_241,,OPERATIONAL,Tide Gauge
+Cote D'Ivoire,,5.25,-4,,Tide Gauge,GLOSS Abidjan,"AtlantOS, GLOSS",GLOSS,GLOSS CI,GLOSS_257,,INACTIVE,Tide Gauge
+France,,-46.425,51.87,,Tide Gauge,GLOSS Crozet Is.,GLOSS,GLOSS,GLOSS FR,GLOSS_21,,OPERATIONAL,Tide Gauge
+Mozambique,,-23.917,35.5,,Tide Gauge,GLOSS Inhambane,GLOSS,GLOSS,GLOSS MZ,GLOSS_10,,INACTIVE,Tide Gauge
+Jamaica,,17.933,-76.85,,Tide Gauge,"GLOSS Port Royal, Kingston",GLOSS,GLOSS,GLOSS JM,GLOSS_210,,OPERATIONAL,Tide Gauge
+Russian Federation,,76.2333,62.5833,,Tide Gauge,GLOSS Russkaya Gavan,GLOSS,GLOSS,GLOSS RU,GLOSS_99,,INACTIVE,Tide Gauge
+Indonesia,,-7.2167,112.7333,,Tide Gauge,GLOSS Surabaya,GLOSS,GLOSS,GLOSS INDONESIA,GLOSS_292,,INACTIVE,Tide Gauge
+Japan,,45.417,141.683,,Tide Gauge,GLOSS Wakkanai,GLOSS,GLOSS,GLOSS JP,GLOSS_324,,OPERATIONAL,Tide Gauge
+China,,24.45,118.0667,,Tide Gauge,GLOSS Xiamen,GLOSS,GLOSS,GLOSS CN,GLOSS_247,,INACTIVE,Tide Gauge
+Israel,,32.467,34.883,,Tide Gauge,GLOSS Hadera,GLOSS,GLOSS,GLOSS IL,GLOSS_80,,OPERATIONAL,Tide Gauge
+China,,28.083,121.283,,Tide Gauge,GLOSS Kanmen,GLOSS,GLOSS,GLOSS CN,GLOSS_94,,OPERATIONAL,Tide Gauge
+United States,,60.117,-149.433,,Tide Gauge,"GLOSS Seward, AK",GLOSS,GLOSS,GLOSS US,GLOSS_150,,OPERATIONAL,Tide Gauge
+United States,,51.867,-176.633,,Tide Gauge,"GLOSS Adak, Aleutian Is.",GLOSS,GLOSS,GLOSS US,GLOSS_302,,OPERATIONAL,Tide Gauge
+Namibia,,-22.949,14.499,,Tide Gauge,GLOSS Walvis Bay,GLOSS,GLOSS,GLOSS NA,GLOSS_314,,OPERATIONAL,Tide Gauge
+Norway,,69.19,16.09,,Tide Gauge,GLOSS Andenes,"AtlantOS, GLOSS",GLOSS,GLOSS NO,GLOSS_322,,OPERATIONAL,Tide Gauge
+,,82.5,-62.317,,Tide Gauge,GLOSS Alert,GLOSS,GLOSS,Tide Gauges,GLOSS_333,,OPERATIONAL,Tide Gauge
+Indonesia,,-8.733,115.2,,Tide Gauge,GLOSS Benoa,GLOSS,GLOSS,GLOSS INDONESIA,GLOSS_49,,OPERATIONAL,Tide Gauge
+Australia,,-9.433,159.95,,Tide Gauge,GLOSS Honiara,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_66,,OPERATIONAL,Tide Gauge
+Indonesia,,-3.7,128.2,,Tide Gauge,GLOSS Ambon,GLOSS,GLOSS,GLOSS INDONESIA,GLOSS_68,,OPERATIONAL,Tide Gauge
+Philippines,,14.583,120.967,,Tide Gauge,"GLOSS Manila, South Harbor",GLOSS,GLOSS,GLOSS PHILIPPINES,GLOSS_73,,OPERATIONAL,Tide Gauge
+Japan,,41.47,140.43,,Tide Gauge,GLOSS Hakodate,GLOSS,GLOSS,GLOSS JP,GLOSS_88,,OPERATIONAL,Tide Gauge
+Russian Federation,,59.733,150.7,,Tide Gauge,GLOSS Nagaevo Bay,GLOSS,GLOSS,GLOSS RU,GLOSS_92,,OPERATIONAL,Tide Gauge
+United States,,53.883,-166.533,,Tide Gauge,"GLOSS Unalaska, Aleutian Is. AK",GLOSS,GLOSS,GLOSS US,GLOSS_102,,OPERATIONAL,Tide Gauge
+United States,,7.333,134.467,,Tide Gauge,GLOSS Malakal,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS US,GLOSS_120,,OPERATIONAL,Tide Gauge
+New Zealand,,-46.6,168.35,,Tide Gauge,GLOSS Bluff,GLOSS,GLOSS,GLOSS NZ,GLOSS_129,,OPERATIONAL,Tide Gauge
+Australia,,-21.2,-159.767,,Tide Gauge,GLOSS Rarotonga,"GLOSS, Tropical Pacific Observing System",GLOSS,GLOSS AUSTRALIA,GLOSS_139,,OPERATIONAL,Tide Gauge
+Australia,,-31.517,159.067,,Tide Gauge,GLOSS Lord Howe Is.,GLOSS,GLOSS,GLOSS AUSTRALIA,GLOSS_148,,OPERATIONAL,Tide Gauge
+United States,,37.8,-122.467,,Tide Gauge,"GLOSS San Francisco, CA",GLOSS,GLOSS,GLOSS US,GLOSS_158,,OPERATIONAL,Tide Gauge
+Ecuador,,-2.2,-80.917,,Tide Gauge,GLOSS La Libertad,GLOSS,GLOSS,GLOSS EC,GLOSS_172,,OPERATIONAL,Tide Gauge
+Peru,,-12.05,-77.15,,Tide Gauge,GLOSS Callao (La Punta),GLOSS,GLOSS,GLOSS PE,GLOSS_173,,OPERATIONAL,Tide Gauge
+El Salvador,,13.583,-89.833,,Tide Gauge,GLOSS Acajutla,GLOSS,GLOSS,GLOSS SV,GLOSS_182,,OPERATIONAL,Tide Gauge
+Argentina,,-42.767,-65.033,,Tide Gauge,GLOSS Puerto Madryn,GLOSS,GLOSS,GLOSS AR,GLOSS_191,,OPERATIONAL,Tide Gauge
+France,,4.85,-52.283,,Tide Gauge,GLOSS Cayenne,"AtlantOS, GLOSS",GLOSS,GLOSS FR,GLOSS_202,,OPERATIONAL,Tide Gauge
+United States,,36.183,-75.75,,Tide Gauge,"GLOSS Duck, N.C.","AtlantOS, GLOSS",GLOSS,GLOSS US,GLOSS_219,,OPERATIONAL,Tide Gauge
+Canada,,47.567,-52.717,,Tide Gauge,"GLOSS St John's, Newfoundland",GLOSS,GLOSS,GLOSS CA,GLOSS_223,,OPERATIONAL,Tide Gauge
+France,,48.383,-4.5,,Tide Gauge,GLOSS Brest,"AtlantOS, GLOSS",GLOSS,GLOSS FR,GLOSS_242,,OPERATIONAL,Tide Gauge
+Portugal,,39.273,-31.075,,Tide Gauge,GLOSS Santa Cruz del Flores (Azores),"AtlantOS, GLOSS",GLOSS,GLOSS PT,GLOSS_244,,OPERATIONAL,Tide Gauge
+Spain,,35.54,-5.19,,Tide Gauge,GLOSS Ceuta (Spanish N. Africa),GLOSS,GLOSS,GLOSS ES,GLOSS_249,,OPERATIONAL,Tide Gauge
+China,,32.133,121.617,,Tide Gauge,GLOSS Lusi,GLOSS,GLOSS,GLOSS CN,GLOSS_283,,OPERATIONAL,Tide Gauge
+"Tanzania, United Republic Of",,-6.15,39.183,,Tide Gauge,GLOSS Zanzibar,GLOSS,GLOSS,GLOSS TZ,GLOSS_297,,OPERATIONAL,Tide Gauge
+Japan,,42.58,144.22,,Tide Gauge,GLOSS Kushiro,GLOSS,GLOSS,GLOSS JP,GLOSS_89,,OPERATIONAL,Tide Gauge
